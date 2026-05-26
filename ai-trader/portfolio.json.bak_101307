@@ -1,0 +1,170 @@
+{
+  "initial_cash": 10000.0,
+  "cash": 2555.0,
+  "positions": {
+    "sz300259": {
+      "name": "新天科技",
+      "qty": 100,
+      "cost_price": 6.32,
+      "current_price": 6.32,
+      "buy_date": "2026-05-19",
+      "buy_time": "09:27:38",
+      "buy_reason": "当前未涨停且位置可控，若量能温和放大可作为低吸备选。"
+    },
+    "sh688327": {
+      "name": "云从科技-UW",
+      "qty": 100,
+      "cost_price": 14.19,
+      "current_price": 14.19,
+      "buy_date": "2026-05-18",
+      "buy_time": "15:10:35",
+      "buy_reason": "科创板高标龙头，资金聚焦度高，高潮期溢价明确。"
+    },
+    "sh601398": {
+      "name": "工商银行",
+      "qty": 100,
+      "cost_price": 7.19,
+      "current_price": 7.19,
+      "buy_date": "2026-05-19",
+      "buy_time": "09:24:49",
+      "buy_reason": "市场偏弱时具备防守属性，适合作为低波动避险配置。"
+    },
+    "sz300263": {
+      "name": "隆华科技",
+      "qty": 100,
+      "cost_price": 13.19,
+      "current_price": 13.19,
+      "buy_date": "2026-05-19",
+      "buy_time": "09:21:42",
+      "buy_reason": "创业板方向仍有相对强度，个股小幅领涨但未涨停，可轻仓低吸博弈修复。"
+    }
+  },
+  "transactions": [
+    {
+      "time": "2026-05-18 13:35:31",
+      "type": "buy",
+      "symbol": "sz300164",
+      "name": "通源石油",
+      "price": 13.65,
+      "qty": 100,
+      "amount": 1365.0,
+      "pnl": 0,
+      "reason": "主板连板先锋，低位补涨逻辑清晰，资金承接力强。"
+    },
+    {
+      "time": "2026-05-18 14:18:00",
+      "type": "buy",
+      "symbol": "sz300259",
+      "name": "新天科技",
+      "price": 6.2,
+      "qty": 300,
+      "amount": 1860.0,
+      "pnl": 0,
+      "reason": "创业板活跃标的，+17.4%领涨，板块强度79。"
+    },
+    {
+      "time": "2026-05-18 15:10:35",
+      "type": "buy",
+      "symbol": "sh688327",
+      "name": "云从科技-UW",
+      "price": 14.19,
+      "qty": 100,
+      "amount": 1419.0,
+      "pnl": 0,
+      "reason": "科创板高标龙头，资金聚焦度高，高潮期溢价明确。"
+    },
+    {
+      "time": "2026-05-19 09:21:42",
+      "type": "buy",
+      "symbol": "sh601398",
+      "name": "工商银行",
+      "price": 7.19,
+      "qty": 200,
+      "amount": 1438.0,
+      "pnl": 0,
+      "reason": "金融权重稳定，弱市中具备防守属性，可作为低波动避险配置。"
+    },
+    {
+      "time": "2026-05-19 09:21:42",
+      "type": "buy",
+      "symbol": "sz300263",
+      "name": "隆华科技",
+      "price": 13.19,
+      "qty": 100,
+      "amount": 1319.0,
+      "pnl": 0,
+      "reason": "创业板方向仍有相对强度，个股小幅领涨但未涨停，可轻仓低吸博弈修复。"
+    },
+    {
+      "time": "2026-05-19 09:24:49",
+      "type": "buy",
+      "symbol": "sh601398",
+      "name": "工商银行",
+      "price": 7.19,
+      "qty": 100,
+      "amount": 719.0,
+      "pnl": 0,
+      "reason": "市场偏弱时具备防守属性，适合作为低波动避险配置。"
+    },
+    {
+      "time": "2026-05-19 09:27:38",
+      "type": "buy",
+      "symbol": "sz300259",
+      "name": "新天科技",
+      "price": 6.32,
+      "qty": 100,
+      "amount": 632.0,
+      "pnl": 0,
+      "reason": "当前未涨停且位置可控，若量能温和放大可作为低吸备选。"
+    },
+    {
+      "time": "2026-05-19 09:37:41",
+      "type": "sell",
+      "symbol": "sz300164",
+      "name": "通源石油",
+      "price": 13.07,
+      "qty": 100,
+      "amount": 1307.0,
+      "pnl": -58.00000000000001,
+      "reason": "风控通过 评分30 信号SELL"
+    }
+  ],
+  "watchlist": [],
+  "risk_logs": [],
+  "ai_log": [
+    {
+      "time": "2026-05-19 10:00:43",
+      "reasoning": "市场赚钱效应较强，涨停扩散且跌停稀少，短线可偏进攻但避免追涨停。",
+      "stage": "升温",
+      "position_analysis": [
+        {
+          "symbol": "新天科技",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，市场升温下先持有观察承接。"
+        },
+        {
+          "symbol": "云从科技-UW",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "科创板强度较高，题材弹性仍在，未见破位信号。"
+        },
+        {
+          "symbol": "工商银行",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，作为防守仓位暂持有。"
+        },
+        {
+          "symbol": "隆华科技",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，市场升温且创业板强势，继续观察。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    }
+  ],
+  "ai_status": "已全量修复"
+}

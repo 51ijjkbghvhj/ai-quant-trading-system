@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+colorama
+tabulate
+tqdm
+websocket-client
+websockets

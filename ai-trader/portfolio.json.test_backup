@@ -1,0 +1,2531 @@
+{
+  "cash": 5396.0,
+  "initial_cash": 20000,
+  "positions": {
+    "sh688317": [
+      {
+        "name": "之江生物",
+        "qty": 100,
+        "cost_price": 20.61,
+        "current_price": 22.45,
+        "buy_date": "2026-05-22",
+        "buy_time": "2026-05-22 13:34:28",
+        "buy_reason": "医药方向有四环生物涨停锚点带动，但并非核心龙头，仅适合在放量不冲板的情况下小仓博弈轮动。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-22 13:34:28",
+        "conviction": 60,
+        "thesis_status": "VALID"
+      }
+    ],
+    "sh600021": [
+      {
+        "name": "上海电力",
+        "qty": 100,
+        "cost_price": 17.6,
+        "current_price": 18.49,
+        "buy_date": "2026-05-22",
+        "buy_time": "2026-05-22 14:36:58",
+        "buy_reason": "电力板块具备防守与趋势轮动属性，市场高潮下可作为低波动补涨试错，但非主线核心，仓位需轻。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-22 14:36:58",
+        "conviction": 60,
+        "thesis_status": "VALID"
+      }
+    ],
+    "sz000938": [
+      {
+        "name": "紫光股份",
+        "qty": 100,
+        "cost_price": 29.91,
+        "current_price": 30.77,
+        "buy_date": "2026-05-22",
+        "buy_time": "2026-05-22 14:54:44",
+        "buy_reason": "AI/算力硬件方向容量中军，未在冷却名单且未显示涨停，适合作为主线高潮期无法买入涨停龙头后的趋势中军小仓试错。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-22 14:54:44",
+        "conviction": 60,
+        "thesis_status": "VALID"
+      }
+    ],
+    "sz002047": [
+      {
+        "name": "宝鹰股份",
+        "qty": 200,
+        "cost_price": 5.19,
+        "current_price": 4.94,
+        "buy_date": "2026-05-25",
+        "buy_time": "2026-05-25 09:17:33",
+        "buy_reason": "AI/人工智能主线龙头达实智能涨停，宝鹰股份同属AI概念且股价低于50元，集合竞价高开，资金认可，作为同板块趋势中军，量价健康，符合升温期上车逻辑。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-25 09:17:33",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "status": "locked"
+      }
+    ],
+    "sz002245": [
+      {
+        "name": "蔚蓝锂芯",
+        "qty": 100,
+        "cost_price": 20.99,
+        "current_price": 19.94,
+        "buy_date": "2026-05-25",
+        "buy_time": "2026-05-25 09:28:04",
+        "buy_reason": "钢铁/资源板块领涨，蔚蓝锂芯高开+2.8%，换手0.2%，量价健康，属于板块核心龙头，符合第一层选股逻辑。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-25 09:28:04",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "status": "locked"
+      }
+    ],
+    "sz002421": [
+      {
+        "name": "达实智能",
+        "qty": 200,
+        "cost_price": 4.59,
+        "current_price": 4.8,
+        "buy_date": "2026-05-25",
+        "buy_time": "2026-05-25 09:28:04",
+        "buy_reason": "AI/人工智能板块领涨，达实智能高开+5.3%，换手1.3%，资金活跃，属于主线方向核心标的，符合第一层选股逻辑。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-25 09:28:04",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "status": "locked"
+      },
+      {
+        "name": "达实智能",
+        "qty": 100,
+        "cost_price": 4.7,
+        "current_price": 4.8,
+        "buy_date": "2026-05-25",
+        "buy_time": "2026-05-25 09:44:29",
+        "buy_reason": "AI主线核心龙头，今日领涨+7.8%且换手19.1%活跃，但T+1锁定无法买入，仅作参考。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-25 09:44:29",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "status": "locked"
+      }
+    ],
+    "sz000630": [
+      {
+        "name": "铜陵有色",
+        "qty": 200,
+        "cost_price": 6.81,
+        "current_price": 6.72,
+        "buy_date": "2026-05-25",
+        "buy_time": "2026-05-25 09:41:29",
+        "buy_reason": "资源/钢铁主线领涨，今日+7.1%换手2.0%放量突破，趋势强劲，符合主线趋势标准。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-25 09:41:29",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "status": "locked"
+      }
+    ],
+    "sz300137": [
+      {
+        "name": "先河环保",
+        "qty": 100,
+        "cost_price": 19.29,
+        "current_price": 19.14,
+        "buy_date": "2026-05-25",
+        "buy_time": "2026-05-25 09:54:55",
+        "buy_reason": "创业板领涨股，涨停20%且换手仅3%，资金锁仓明显，主线方向（创业板成长），符合高潮期做龙头策略，小仓试错。",
+        "pnl": 0,
+        "state_entered_at": "2026-05-25 09:54:55",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "status": "locked"
+      }
+    ]
+  },
+  "transactions": [
+    {
+      "type": "buy",
+      "symbol": "sz300410",
+      "name": "正业科技",
+      "price": 11.04,
+      "qty": 100,
+      "time": "2026-05-22 10:23:05",
+      "reason": "对标天承科技等PCB/电子材料方向强势锚点，属于同主线可交易弹性标的，若未封涨停且量价健康可参与。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh688317",
+      "name": "之江生物",
+      "price": 20.61,
+      "qty": 100,
+      "time": "2026-05-22 13:34:28",
+      "reason": "医药方向有四环生物涨停锚点带动，但并非核心龙头，仅适合在放量不冲板的情况下小仓博弈轮动。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "price": 17.6,
+      "qty": 100,
+      "time": "2026-05-22 14:36:58",
+      "reason": "电力板块具备防守与趋势轮动属性，市场高潮下可作为低波动补涨试错，但非主线核心，仓位需轻。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz000938",
+      "name": "紫光股份",
+      "price": 29.91,
+      "qty": 100,
+      "time": "2026-05-22 14:54:44",
+      "reason": "AI/算力硬件方向容量中军，未在冷却名单且未显示涨停，适合作为主线高潮期无法买入涨停龙头后的趋势中军小仓试错。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002203",
+      "name": "海亮股份",
+      "price": 21.42,
+      "qty": 100,
+      "time": "2026-05-22 15:06:42",
+      "reason": "资源有色方向在高潮行情中具备轮动承接潜力，若铜铝链条集体高开且非缩量冲高，可作为趋势轮动观察；不追涨停。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002047",
+      "name": "宝鹰股份",
+      "price": 5.19,
+      "qty": 200,
+      "time": "2026-05-25 09:17:33",
+      "reason": "AI/人工智能主线龙头达实智能涨停，宝鹰股份同属AI概念且股价低于50元，集合竞价高开，资金认可，作为同板块趋势中军，量价健康，符合升温期上车逻辑。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002245",
+      "name": "蔚蓝锂芯",
+      "price": 20.99,
+      "qty": 100,
+      "time": "2026-05-25 09:28:04",
+      "reason": "钢铁/资源板块领涨，蔚蓝锂芯高开+2.8%，换手0.2%，量价健康，属于板块核心龙头，符合第一层选股逻辑。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002421",
+      "name": "达实智能",
+      "price": 4.59,
+      "qty": 200,
+      "time": "2026-05-25 09:28:04",
+      "reason": "AI/人工智能板块领涨，达实智能高开+5.3%，换手1.3%，资金活跃，属于主线方向核心标的，符合第一层选股逻辑。"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz002203",
+      "name": "海亮股份",
+      "price": 21.21,
+      "qty": 100,
+      "pnl": -21.000000000000085,
+      "time": "2026-05-25 09:35:30",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz300410",
+      "name": "正业科技",
+      "price": 11.49,
+      "qty": 100,
+      "pnl": 45.00000000000011,
+      "time": "2026-05-25 09:41:29",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz000630",
+      "name": "铜陵有色",
+      "price": 6.81,
+      "qty": 200,
+      "time": "2026-05-25 09:41:29",
+      "reason": "资源/钢铁主线领涨，今日+7.1%换手2.0%放量突破，趋势强劲，符合主线趋势标准。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002421",
+      "name": "达实智能",
+      "price": 4.7,
+      "qty": 100,
+      "time": "2026-05-25 09:44:29",
+      "reason": "AI主线核心龙头，今日领涨+7.8%且换手19.1%活跃，但T+1锁定无法买入，仅作参考。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300137",
+      "name": "先河环保",
+      "price": 19.29,
+      "qty": 100,
+      "time": "2026-05-25 09:54:55",
+      "reason": "创业板领涨股，涨停20%且换手仅3%，资金锁仓明显，主线方向（创业板成长），符合高潮期做龙头策略，小仓试错。"
+    }
+  ],
+  "ai_status": "分析中",
+  "watchlist": [
+    {
+      "symbol": "隆华科技",
+      "name": "隆华科技",
+      "reason": "AI分析推荐",
+      "added_time": "[09:15:4"
+    },
+    {
+      "symbol": "sz000858",
+      "name": "五粮液",
+      "reason": "AI分析推荐",
+      "added_time": "[09:20:1"
+    },
+    {
+      "symbol": "五粮液",
+      "name": "五 粮 液",
+      "reason": "AI分析推荐",
+      "added_time": "[09:23:1"
+    },
+    {
+      "symbol": "工商银行",
+      "name": "工商银行",
+      "reason": "AI分析推荐",
+      "added_time": "[09:23:1"
+    },
+    {
+      "symbol": "sz300263",
+      "name": "隆华科技",
+      "reason": "AI分析推荐",
+      "added_time": "[09:24:4"
+    },
+    {
+      "symbol": "sz300657",
+      "name": "弘信电子",
+      "reason": "AI分析推荐",
+      "added_time": "[09:26:4"
+    },
+    {
+      "symbol": "sh688327",
+      "name": "云从科技-UW",
+      "reason": "AI分析推荐",
+      "added_time": "[09:27:3"
+    },
+    {
+      "symbol": "sh688182",
+      "name": "灿勤科技",
+      "reason": "AI分析推荐",
+      "added_time": "[09:31:0"
+    },
+    {
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "reason": "AI分析推荐",
+      "added_time": "[09:32:4"
+    },
+    {
+      "symbol": "弘信电子",
+      "name": "弘信电子",
+      "reason": "AI分析推荐",
+      "added_time": "[09:36:0"
+    },
+    {
+      "symbol": "索辰科技",
+      "name": "索辰科技",
+      "reason": "AI分析推荐",
+      "added_time": "[09:36:0"
+    },
+    {
+      "symbol": "新天科技",
+      "name": "新天科技",
+      "reason": "AI分析推荐",
+      "added_time": "[09:36:0"
+    },
+    {
+      "symbol": "云从科技-UW",
+      "name": "云从科技-UW",
+      "reason": "AI分析推荐",
+      "added_time": "[09:46:4"
+    },
+    {
+      "symbol": "天山电子",
+      "name": "天山电子",
+      "reason": "AI分析推荐",
+      "added_time": "[11:23:0"
+    },
+    {
+      "symbol": "电力前排",
+      "name": "电力板块前排非涨停股",
+      "reason": "AI分析推荐",
+      "added_time": "[11:23:0"
+    },
+    {
+      "symbol": "sz301379",
+      "name": "天山电子",
+      "reason": "AI分析推荐",
+      "added_time": "[11:24:4"
+    },
+    {
+      "symbol": "sz301162",
+      "name": "国能日新",
+      "reason": "AI分析推荐",
+      "added_time": "[13:12:4"
+    },
+    {
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "reason": "AI分析推荐",
+      "added_time": "[13:15:4"
+    },
+    {
+      "symbol": "sz300283",
+      "name": "温州宏丰",
+      "reason": "AI分析推荐",
+      "added_time": "[13:32:1"
+    },
+    {
+      "symbol": "sh600886",
+      "name": "国投电力",
+      "reason": "AI分析推荐",
+      "added_time": "[13:47:1"
+    },
+    {
+      "symbol": "sh600025",
+      "name": "华能水电",
+      "reason": "AI分析推荐",
+      "added_time": "[09:16:2"
+    },
+    {
+      "symbol": "sh600795",
+      "name": "国电电力",
+      "reason": "AI分析推荐",
+      "added_time": "[09:17:4"
+    },
+    {
+      "symbol": "sz300687.SZ",
+      "name": "赛意信息",
+      "reason": "AI分析推荐",
+      "added_time": "[10:13:4"
+    },
+    {
+      "symbol": "sz301013",
+      "name": "利和兴",
+      "reason": "AI分析推荐",
+      "added_time": "[10:25:5"
+    },
+    {
+      "symbol": "sh688361",
+      "name": "中科飞测",
+      "reason": "AI分析推荐",
+      "added_time": "[10:33:1"
+    },
+    {
+      "symbol": "sh688347",
+      "name": "华虹公司",
+      "reason": "AI分析推荐",
+      "added_time": "[10:59:3"
+    },
+    {
+      "symbol": "sh688449",
+      "name": "联芸科技",
+      "reason": "AI分析推荐",
+      "added_time": "[11:04:0"
+    },
+    {
+      "symbol": "sh688371",
+      "name": "菲沃泰",
+      "reason": "AI分析推荐",
+      "added_time": "[11:11:1"
+    },
+    {
+      "symbol": "sh688317",
+      "name": "之江生物",
+      "reason": "AI分析推荐",
+      "added_time": "[11:15:2"
+    },
+    {
+      "symbol": "sh688146",
+      "name": "中船特气",
+      "reason": "AI分析推荐",
+      "added_time": "[11:27:1"
+    },
+    {
+      "symbol": "sz300174",
+      "name": "元力股份",
+      "reason": "AI分析推荐",
+      "added_time": "[12:06:0"
+    },
+    {
+      "symbol": "sz300715",
+      "name": "凯伦股份",
+      "reason": "AI分析推荐",
+      "added_time": "[14:48:0"
+    },
+    {
+      "symbol": "sz300484",
+      "name": "隆华科技",
+      "reason": "AI分析推荐",
+      "added_time": "[09:18:0"
+    },
+    {
+      "symbol": "sz002962",
+      "name": "五方光电",
+      "reason": "AI分析推荐",
+      "added_time": "[09:36:1"
+    },
+    {
+      "symbol": "sz000899",
+      "name": "旗滨集团",
+      "reason": "AI分析推荐",
+      "added_time": "[09:49:5"
+    },
+    {
+      "symbol": "sz000050",
+      "name": "深天马Ａ",
+      "reason": "AI分析推荐",
+      "added_time": "[09:53:5"
+    },
+    {
+      "symbol": "sz300162",
+      "name": "雷曼光电",
+      "reason": "AI 推荐 (score=88.0) 风控拦截"
+    },
+    {
+      "symbol": "sh688055",
+      "name": "龙腾光电",
+      "reason": "AI 推荐 (score=80.0) 风控拦截"
+    },
+    {
+      "symbol": "sz000725",
+      "name": "京东方A",
+      "reason": "AI 推荐 (score=78.0) 风控拦截"
+    },
+    {
+      "symbol": "sh688079",
+      "name": "美迪凯",
+      "reason": "AI 推荐 (score=86.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300323",
+      "name": "华灿光电",
+      "reason": "AI 推荐 (score=82.0) 风控拦截"
+    },
+    {
+      "symbol": "sh601677",
+      "name": "明泰铝业",
+      "reason": "AI 推荐 (score=75.0) 风控拦截"
+    },
+    {
+      "symbol": "sh688207",
+      "name": "格灵深瞳",
+      "reason": "AI 推荐 (score=82.0) 风控拦截"
+    },
+    {
+      "symbol": "sh688010",
+      "name": "福光股份",
+      "reason": "AI 推荐 (score=72.0) 风控拦截"
+    },
+    {
+      "symbol": "sh601899",
+      "name": "紫金矿业",
+      "reason": "AI 推荐 (score=72.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300243",
+      "name": "瑞丰高材",
+      "reason": "AI 推荐 (score=72.0) 风控拦截"
+    },
+    {
+      "symbol": "sz301588",
+      "name": "美新科技",
+      "reason": "AI 推荐 (score=68.0) 风控拦截"
+    },
+    {
+      "symbol": "sz000630",
+      "name": "铜陵有色",
+      "reason": "AI 推荐 (score=72.0) 风控拦截"
+    },
+    {
+      "symbol": "sz002245",
+      "name": "蔚蓝锂芯",
+      "reason": "AI 推荐 (score=66.0) 风控拦截"
+    },
+    {
+      "symbol": "sh601702",
+      "name": "华峰铝业",
+      "reason": "AI 推荐 (score=64.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300907",
+      "name": "康平科技",
+      "reason": "AI 推荐 (score=72.0) 风控拦截"
+    },
+    {
+      "symbol": "sz002230",
+      "name": "科大讯飞",
+      "reason": "AI 推荐 (score=75.0) 风控拦截"
+    },
+    {
+      "symbol": "sh688458",
+      "name": "美芯晟",
+      "reason": "AI 推荐 (score=70.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "reason": "AI 推荐 (score=72.0) 风控拦截"
+    },
+    {
+      "symbol": "sh600545",
+      "name": "卓郎智能",
+      "reason": "AI 推荐 (score=66.0) 风控拦截"
+    },
+    {
+      "symbol": "sz002421",
+      "name": "达实智能",
+      "reason": "AI 推荐 (score=72.0) 风控拦截"
+    },
+    {
+      "symbol": "sh688702",
+      "name": "盛科通信",
+      "reason": "AI 推荐 (score=80.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300410",
+      "name": "正业科技",
+      "reason": "AI 推荐 (score=90.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300275",
+      "name": "梅安森",
+      "reason": "AI 推荐 (score=78.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300593",
+      "name": "新雷能",
+      "reason": "AI 推荐 (score=85.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300129",
+      "name": "长海股份",
+      "reason": "AI 推荐 (score=85.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300196",
+      "name": "长海股份",
+      "reason": "AI 推荐 (score=85.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300905",
+      "name": "",
+      "reason": "AI 推荐 (score=75.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300337",
+      "name": "长海股份",
+      "reason": "AI 推荐 (score=78.0) 风控拦截"
+    }
+  ],
+  "risk_logs": [
+    {
+      "time": "2026-05-21 13:01:05",
+      "symbol": "sz000725",
+      "name": "雷曼光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:01:05",
+      "symbol": "sz000725",
+      "name": "龙腾光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:01:05",
+      "symbol": "sz000725",
+      "name": "京东方Ａ",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:02:34",
+      "symbol": "sz000725",
+      "name": "雷曼光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:02:34",
+      "symbol": "sz000725",
+      "name": "龙腾光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:04:03",
+      "symbol": "sz000725",
+      "name": "雷曼光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:04:03",
+      "symbol": "sz000725",
+      "name": "龙腾光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:08:29",
+      "symbol": "sz000725",
+      "name": "龙腾光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:24:37",
+      "symbol": "sh688079",
+      "name": "美迪凯",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:24:37",
+      "symbol": "sh688055",
+      "name": "龙腾光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:29:24",
+      "symbol": "sz000725",
+      "name": "京东方Ａ",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:44:21",
+      "symbol": "sh688079",
+      "name": "美迪凯",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 13:51:53",
+      "symbol": "sz000725",
+      "name": "京东方Ａ",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 14:08:01",
+      "symbol": "sh688079",
+      "name": "美迪凯",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 14:18:26",
+      "symbol": "sz300162",
+      "name": "雷曼光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 14:34:26",
+      "symbol": "sz300162",
+      "name": "雷曼光电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-21 14:47:58",
+      "symbol": "sh688079",
+      "name": "美迪凯",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 09:41:34",
+      "symbol": "sh688055",
+      "name": "龙腾光电",
+      "action": "SELL",
+      "reason": "[A级]今日交易4次已达上限4（市场升温）",
+      "risk_level": "MEDIUM"
+    },
+    {
+      "time": "2026-05-22 09:41:34",
+      "symbol": "sz000725",
+      "name": "京东方Ａ",
+      "action": "SELL",
+      "reason": "[A级]今日交易4次已达上限4（市场升温）",
+      "risk_level": "MEDIUM"
+    },
+    {
+      "time": "2026-05-22 13:22:45",
+      "symbol": "sh688010",
+      "name": "福光股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 13:24:13",
+      "symbol": "sh601899",
+      "name": "紫金矿业",
+      "action": "BUY",
+      "reason": "[A级]单只超限：16% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 13:28:28",
+      "symbol": "sh601899",
+      "name": "紫金矿业",
+      "action": "BUY",
+      "reason": "[A级]单只超限：16% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 13:29:57",
+      "symbol": "sh688010",
+      "name": "福光股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 13:47:29",
+      "symbol": "sh601899",
+      "name": "紫金矿业",
+      "action": "BUY",
+      "reason": "[A级]单只超限：16% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 13:51:57",
+      "symbol": "sh688010",
+      "name": "福光股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:03:18",
+      "symbol": "sh688010",
+      "name": "福光股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：23% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:19:35",
+      "symbol": "sh688010",
+      "name": "福光股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：23% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:24:52",
+      "symbol": "sz002230",
+      "name": "科大讯飞",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:24:52",
+      "symbol": "sh688458",
+      "name": "美芯晟",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:26:29",
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：16% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:27:59",
+      "symbol": "sh688010",
+      "name": "福光股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：23% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:27:59",
+      "symbol": "sh601899",
+      "name": "紫金矿业",
+      "action": "BUY",
+      "reason": "[A级]单只超限：15% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:41:23",
+      "symbol": "sh688458",
+      "name": "美芯晟",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:42:55",
+      "symbol": "sz002230",
+      "name": "科大讯飞",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:44:24",
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：16% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:45:54",
+      "symbol": "sh688010",
+      "name": "福光股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：23% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 14:57:43",
+      "symbol": "sh688458",
+      "name": "美芯晟",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 15:02:46",
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：16% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 15:14:11",
+      "symbol": "sh688458",
+      "name": "美芯晟",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 15:18:49",
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "action": "BUY",
+      "reason": "[A级]单只超限：16% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 15:26:11",
+      "symbol": "sh601899",
+      "name": "紫金矿业",
+      "action": "BUY",
+      "reason": "[A级]单只超限：15% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-22 15:30:45",
+      "symbol": "sh688458",
+      "name": "美芯晟",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-25 09:16:03",
+      "symbol": "sz002230",
+      "name": "科大讯飞",
+      "action": "BUY",
+      "reason": "[A级]单只超限：24% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-25 09:31:02",
+      "symbol": "sz300410",
+      "name": "正业科技",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前71% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-25 09:53:25",
+      "symbol": "sz300593",
+      "name": "新雷能",
+      "action": "BUY",
+      "reason": "[A级]单只超限：19% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-25 10:09:51",
+      "symbol": "sz300129",
+      "name": "泰胜风能",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场高潮最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-25 10:20:20",
+      "symbol": "sz300129",
+      "name": "泰胜风能",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前74% >= 市场高潮最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-25 10:54:13",
+      "symbol": "sz002047",
+      "name": "宝鹰股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-25)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-25 10:54:13",
+      "symbol": "sz002245",
+      "name": "蔚蓝锂芯",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-25)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-25 10:54:13",
+      "symbol": "sz300337",
+      "name": "银邦股份",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场高潮最大70%",
+      "risk_level": "HIGH"
+    }
+  ],
+  "ai_log": [
+    {
+      "time": "2026-05-25 10:05:22",
+      "reasoning": "市场情绪亢奋，涨停家数多，资金主攻创业板和科创板成长方向，主线为医药、半导体和电力。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物作为医药龙头之一，今日涨幅12%且换手健康，主线逻辑未破，继续持有。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块领涨方向，涨幅5%且换手低，趋势良好，持有观察。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份作为AI算力中军，今日涨幅2.6%且量价健康，主线逻辑未破，继续持有。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "action": "BUY",
+          "score": 75,
+          "thesis": "先河环保属于环保方向，今日涨幅0.1%但换手低，形态稳健，作为补涨标的试错，符合兜底机制。",
+          "risk_result": "加仓评分不足(75.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:06:53",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻创业板和科创板成长方向，主线为电力、汽车和半导体等板块。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物作为医药方向领涨股，今日涨幅较大且换手健康，主线逻辑未破，继续持有观察。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块领涨股，趋势良好，量价健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份作为AI算力中军，今日涨幅较小但趋势未破，等待放量突破信号。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作，等待明日决策。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作，等待明日决策。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作，等待明日决策。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作，等待明日决策。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作，等待明日决策。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh600021",
+          "name": "上海电力",
+          "score": 82,
+          "action": "BUY",
+          "thesis": "电力板块领涨股，今日放量上涨，趋势健康，作为主线核心龙头，符合高潮期做龙头策略。",
+          "risk_result": "加仓评分不足(82.0<85"
+        },
+        {
+          "symbol": "sz000938",
+          "name": "紫光股份",
+          "score": 78,
+          "action": "BUY",
+          "thesis": "AI算力方向容量中军，今日小幅上涨但量价健康，若指数继续上行有望修复，作为补涨标的试错。",
+          "risk_result": "仓位上限(15.1%>=15%"
+        },
+        {
+          "symbol": "sh688317",
+          "name": "之江生物",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "医药方向领涨股，今日涨幅较大但换手健康，作为主线补涨标的，小仓参与。",
+          "risk_result": "加仓评分不足(75.0<85"
+        }
+      ],
+      "signals_count": 3
+    },
+    {
+      "time": "2026-05-25 10:08:22",
+      "reasoning": "市场情绪亢奋，涨停74只，上涨比78.1%，均涨幅4.53%，资金主攻创业板和科创板成长方向，医药、电力、汽车等板块均有表现。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物作为医药领涨股，今日+11.5%强势，持仓盈利12.3%，主线逻辑未破，继续持有。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块领涨方向，今日+5.1%量价健康，持仓盈利5.1%，趋势未坏。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份AI算力中军，今日+2.5%小幅上涨，逻辑仍在，但需观察能否放量站上30元。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "创业板环保方向补涨，今日+0.2%量价平稳，形态健康，小仓试错。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:09:51",
+      "reasoning": "市场资金极度亢奋，创业板和科创板领涨，主线集中在泛科技和新能源方向。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物跟随医药板块轮动，现价高于成本，量价健康，继续持有观察。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块趋势中军，涨幅温和，量能正常，持有等待板块扩散。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份作为AI算力中军，今日小幅上涨，趋势未破，继续持有。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作，等待明日解锁。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作，等待明日解锁。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作，等待明日解锁。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作，等待明日解锁。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作，等待明日解锁。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300129",
+          "name": "长海股份",
+          "score": 85,
+          "action": "BUY",
+          "thesis": "创业板领涨龙头，今日涨幅20%且换手充分，主线方向明确，资金聚焦，可小仓参与。",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场高潮最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:11:22",
+      "reasoning": "市场极度亢奋，涨停家数多，上涨比高，资金主攻创业板和科创板成长方向，主线为AI算力和半导体。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物作为医药轮动标的，今日涨幅+10.5%且换手健康，但非主线核心，持有观察，若板块走弱则考虑卖出。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块，今日涨幅+4.8%且量价健康，电力板块有龙头带动，持有等待轮动。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份作为AI算力中军，今日涨幅+2.8%且换手温和，主线方向未变，持有观察能否放量突破30元。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作，等待明日解禁后评估。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作，等待明日解禁后评估。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作，等待明日解禁后评估。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作，等待明日解禁后评估。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作，等待明日解禁后评估。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "先河环保属于创业板环保方向，今日涨幅+0.6%但换手较低，形态上处于平台整理，作为非核心标的兜底选择，小仓试错，等待轮动。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:12:51",
+      "reasoning": "市场极度亢奋，涨停75只，上涨比78.8%，资金主攻方向分散但龙头效应明显，优先做核心龙头或最强补涨。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物盈利+11.3%，医药方向有轮动但非核心龙头，持有观察，不追高。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力盈利+4.7%，电力板块有领涨股带动，趋势健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份盈利+2.6%，AI算力中军，量价健康，持有等待放量突破。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，亏损-4.2%，等待解禁后处理。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，亏损-5.7%，等待解禁后处理。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，盈利+3.7%，龙头持仓继续持有。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，亏损-0.1%，等待解禁后处理。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，盈利+0.9%，等待解禁后处理。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "环保方向有长海股份领涨，先河环保虽T+1锁定但可考虑加仓，量价健康，小仓试错补涨。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:14:21",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻半导体、医药、电力等方向，创业板和科创板领涨，风险偏好高。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物作为医药领涨股，今日涨幅10.1%，换手健康，持仓盈利11%，趋势未破，继续持有。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块，今日涨幅4.4%，换手温和，持仓盈利4.4%，趋势良好，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份作为AI算力中军，今日涨幅3.2%，量价健康，持仓盈利3.2%，继续持有观察。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法卖出，持仓亏损4.4%，等待解锁后评估。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法卖出，持仓亏损5.1%，等待解锁后评估。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法卖出，持仓盈利3.7%，等待解锁后评估。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法卖出，持仓亏损0.6%，等待解锁后评估。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法卖出，持仓盈利1.1%，等待解锁后评估。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "环保板块补涨，今日涨幅1.1%，换手温和，形态健康，作为小仓试错标的，符合高潮期补涨逻辑。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:15:50",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻方向分散但以科技成长为主，需聚焦核心龙头。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物作为医药方向领涨，现价高于成本，盈利10.9%，趋势未破，继续持有观察。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块，涨幅温和但换手低，量价健康，暂持。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份作为AI算力中军，小幅盈利，趋势修复中，继续持有。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "环保方向补涨，换手适中，形态健康，小仓试错。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:17:21",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻方向分散但以科技和资源为主，需聚焦核心龙头。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "医药方向轮动，之江生物今日涨幅较大，但非核心龙头，持有观察，若明日走弱则考虑卖出。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力板块有领涨股，上海电力涨幅温和，趋势健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "AI算力中军，今日涨幅有限但量价正常，持有等待板块轮动。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，无法操作。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "BROKEN",
+          "reason": "蔚蓝锂芯今日下跌，走势弱于板块，但T+1锁定，无法卖出，后续观察。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能为龙头，今日涨停，T+1锁定，持有。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色微跌，但资源板块有领涨，持有观察。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保小幅上涨，趋势健康，持有。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300196",
+          "name": "长海股份",
+          "score": 85,
+          "action": "BUY",
+          "thesis": "创业板领涨龙头，今日+20%涨停，换手充分，资金主攻方向，符合高潮期做核心龙头策略。",
+          "risk_result": "涨停限制(涨停价23.92)"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:18:49",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻方向分散但强度高，需聚焦核心龙头。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物盈利11%，医药方向有轮动机会，但非核心龙头，持有观察。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力盈利6.8%，电力板块有领涨股，趋势健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份盈利2.2%，AI算力方向有修复预期，但需放量确认，暂持。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，亏损中，等待解套。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，亏损中，等待解套。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，盈利中，持有。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，微亏，等待解套。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，微盈，持有。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "环保方向有补涨潜力，形态健康，小仓试错。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:20:20",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻半导体、医药及电力方向，但需警惕高潮后分歧风险。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物作为医药领涨股，今日涨幅+10.6%且换手健康，主线逻辑未破，继续持有。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力跟随电力板块强势，量价配合良好，趋势未变。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份作为AI算力中军，今日涨幅+2.5%且换手温和，趋势修复中，继续持有观察。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作，等待明日。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作，等待明日。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作，等待明日。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作，等待明日。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作，等待明日。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300129",
+          "action": "BUY",
+          "score": 75,
+          "thesis": "泰胜风能虽被风控拒绝，但作为风电方向补涨标的，若仓位允许可考虑小仓试错，但当前仓位已满，暂不推荐。",
+          "risk_result": "[A级]仓位已满：当前74% >= 市场高潮最大70%"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "BUY",
+          "score": 80,
+          "thesis": "上海电力作为电力板块趋势中军，量价健康，高潮期可继续加仓，但当前已持有，需控制仓位。",
+          "risk_result": "加仓评分不足(80.0<85"
+        }
+      ],
+      "signals_count": 2
+    },
+    {
+      "time": "2026-05-25 10:21:51",
+      "reasoning": "市场资金极度亢奋，主线集中在半导体和AI算力方向，龙头股强势领涨，但需警惕高位分歧。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物受益医药轮动，涨幅健康，但非核心龙头，持有观察，若板块走弱则考虑卖出。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力电力板块领涨，趋势良好，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份AI算力中军，量价健康，持有等待放量突破。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "环保板块补涨，量价健康，小仓试错，但非主线核心，评分较低。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:23:18",
+      "reasoning": "市场资金极度亢奋，主线集中在半导体、创业板和电力方向，龙头股涨幅巨大，需聚焦核心龙头或最强补涨。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "医药方向轮动中，之江生物涨幅较大但非核心龙头，持有观察，若板块走弱则考虑卖出。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力板块领涨，上海电力涨幅健康，量价配合良好，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "AI算力中军，紫光股份小幅上涨，趋势未破，持有等待放量突破。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，无法操作。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，无法操作。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，无法操作。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，无法操作。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，无法操作。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300196",
+          "name": "长海股份",
+          "score": 85,
+          "action": "BUY",
+          "thesis": "创业板领涨龙头，涨幅20%且换手充分，主线方向明确，符合高潮期做核心龙头的策略。",
+          "risk_result": "涨停限制(涨停价23.92)"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:24:48",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻创业板和科创板成长方向，主线为科技与电力板块。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物涨幅较大，医药板块轮动中，但非核心龙头，持有观察，不急于卖出。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块趋势中军，量价健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份AI算力中军，今日涨幅温和，趋势未破，持有等待放量突破。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "环保方向补涨，量价健康，小仓试错。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:26:18",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻科技成长方向，创业板和科创板领涨，主线清晰。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物跟随医药板块轮动，盈利可观，但非核心龙头，暂持观察板块持续性。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力属于电力板块趋势中军，量价健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份作为AI算力中军，今日涨幅温和，趋势未破，继续持有。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法卖出。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法卖出。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法卖出。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色小幅亏损，但资源板块有领涨锚点，暂持观察。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法卖出。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "环保方向补涨标的，换手率低且形态健康，小仓试错。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:27:47",
+      "reasoning": "市场情绪极度亢奋，涨停家数多，资金主攻科技成长方向，创业板和科创板领涨，主线明确。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物盈利10.4%，医药方向有轮动预期，但非核心龙头，暂持观察。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力盈利6.1%，电力板块有领涨股带动，趋势健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份盈利2.4%，AI算力中军，量价健康，继续持有等待放量突破。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，无法操作。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，无法操作。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，无法操作。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，无法操作。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，无法操作。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "环保方向补涨，形态健康，换手适中，小仓试错。",
+          "risk_result": "加仓评分不足(75.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:29:17",
+      "reasoning": "市场资金极度亢奋，主线集中在半导体、创业板和电力方向，龙头股表现强势，但需警惕高潮后的分化风险。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物盈利10.2%，医药方向轮动中，但非核心龙头，持有观察放量突破情况。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力盈利6.1%，电力板块领涨，趋势健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份盈利2.3%，AI算力中军，量价健康，持有等待放量突破。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，亏损4.4%，等待解锁后评估。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，亏损4.1%，等待解锁后评估。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，盈利3.7%，持有。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，微亏0.1%，持有。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，微盈0.3%，持有。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "环保方向补涨，量价健康，小仓试错。",
+          "risk_result": "加仓评分不足(75.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:30:47",
+      "reasoning": "市场极度亢奋，涨停家数多，资金主攻科技成长方向，创业板和科创板领涨。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物盈利+9.8%，医药方向有轮动机会，但非核心龙头，继续持有观察。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力盈利+5.6%，电力板块有领涨股带动，趋势健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份盈利+2.5%，AI算力方向有修复预期，量价健康，继续持有。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，亏损-4.0%，等待解锁后评估。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，亏损-4.2%，等待解锁后评估。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，盈利+3.7%，持有。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，微亏-0.1%，持有。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，微盈+0.3%，持有。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300137",
+          "name": "先河环保",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "创业板环保方向，量价健康，换手低，有补涨潜力，小仓试错。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:32:18",
+      "reasoning": "市场资金极度亢奋，主线集中在创业板和科创板，龙头股表现强势，但需警惕高位分化。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物盈利10.2%，医药方向轮动中，但非核心龙头，建议持有观察，若走弱则止盈。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力盈利6.0%，电力板块有领涨股带动，趋势健康，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份盈利2.6%，AI算力中军，量价健康，可持有等待放量突破。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "宝鹰股份T+1锁定，亏损4.2%，等待解禁后观察。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "蔚蓝锂芯T+1锁定，亏损4.5%，等待解禁后处理。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能T+1锁定，盈利3.7%，持有。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色T+1锁定，盈亏平衡，持有。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保T+1锁定，微亏，持有。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300905",
+          "action": "BUY",
+          "score": 75,
+          "thesis": "创业板领涨股长海股份（+20%）带动板块，同方向补涨标的，量价健康，小仓试错。",
+          "risk_result": "资金不足,买不起 100 股"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-25 10:54:13",
+      "reasoning": "市场情绪极度亢奋，涨停家数超百只，资金主攻创业板和AI/半导体方向，龙头效应显著。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh688317",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "之江生物盈利8.9%，医药方向非当前主线，但个股走势稳健，可持有观察。",
+          "name": "之江生物"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力盈利5.1%，电力板块有领涨股带动，趋势尚可，继续持有。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sz000938",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "紫光股份盈利2.9%，AI算力方向活跃，个股量价健康，持有等待轮动。",
+          "name": "紫光股份"
+        },
+        {
+          "symbol": "sz002047",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "宝鹰股份亏损4.8%，非主线且走势疲弱，高潮期应聚焦龙头，止损换仓。",
+          "name": "宝鹰股份"
+        },
+        {
+          "symbol": "sz002245",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "蔚蓝锂芯亏损5.0%，非当前主线，个股表现不佳，建议止损。",
+          "name": "蔚蓝锂芯"
+        },
+        {
+          "symbol": "sz002421",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "达实智能盈利3.7%，AI方向领涨龙头，换手充分，继续持有享受溢价。",
+          "name": "达实智能"
+        },
+        {
+          "symbol": "sz000630",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "铜陵有色亏损1.3%，有色板块非主线但亏损较小，可持有观察。",
+          "name": "铜陵有色"
+        },
+        {
+          "symbol": "sz300137",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "先河环保亏损0.8%，亏损极小，暂持观望。",
+          "name": "先河环保"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300337",
+          "name": "长海股份",
+          "score": 78,
+          "action": "BUY",
+          "thesis": "创业板领涨股，涨停20%换手17.3%，量价健康，属于主线补涨龙头，小仓试错。",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场高潮最大70%"
+        }
+      ],
+      "signals_count": 1
+    }
+  ],
+  "ai_start_time": "2026-05-25T10:54:07.358556",
+  "cooldown_positions": []
+}

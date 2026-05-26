@@ -1,0 +1,1697 @@
+{
+  "initial_cash": 20000.0,
+  "cash": 7955.0,
+  "positions": {
+    "sh601398": {
+      "name": "工商银行",
+      "qty": 300,
+      "cost_price": 7.19,
+      "current_price": 7.19,
+      "buy_date": "2026-05-19",
+      "buy_time": "09:21:42",
+      "buy_reason": "系统修复",
+      "pnl": 0
+    },
+    "sz300263": {
+      "name": "隆华科技",
+      "qty": 100,
+      "cost_price": 13.19,
+      "current_price": 13.19,
+      "buy_date": "2026-05-19",
+      "buy_time": "09:21:42",
+      "buy_reason": "系统修复",
+      "pnl": 0
+    },
+    "sz000875": {
+      "name": "电投绿能",
+      "qty": 200,
+      "cost_price": 6.89,
+      "current_price": 6.89,
+      "buy_date": "2026-05-19",
+      "buy_time": "13:20:20",
+      "buy_reason": "系统修复",
+      "pnl": 0
+    },
+    "sh600795": {
+      "name": "国电电力",
+      "qty": 600,
+      "cost_price": 5.125,
+      "current_price": 5.1,
+      "buy_date": "2026-05-19",
+      "buy_time": "13:30:47",
+      "buy_reason": "系统修复",
+      "pnl": 0
+    },
+    "sh600025": {
+      "name": "华能水电",
+      "qty": 200,
+      "cost_price": 9.845,
+      "current_price": 9.84,
+      "buy_date": "2026-05-19",
+      "buy_time": "13:30:48",
+      "buy_reason": "系统修复",
+      "pnl": 0
+    },
+    "sh600027": {
+      "name": "华电国际",
+      "qty": 400,
+      "cost_price": 5.485,
+      "current_price": 5.49,
+      "buy_date": "2026-05-19",
+      "buy_time": "13:47:13",
+      "buy_reason": "系统修复",
+      "pnl": 0
+    }
+  },
+  "transactions": [
+    {
+      "time": "2026-05-18 13:35:31",
+      "type": "buy",
+      "symbol": "sz300164",
+      "name": "通源石油",
+      "price": 13.65,
+      "qty": 100,
+      "amount": 1365.0,
+      "pnl": 0,
+      "reason": "主板连板先锋，低位补涨逻辑清晰，资金承接力强。"
+    },
+    {
+      "time": "2026-05-18 14:18:00",
+      "type": "buy",
+      "symbol": "sz300259",
+      "name": "新天科技",
+      "price": 6.2,
+      "qty": 300,
+      "amount": 1860.0,
+      "pnl": 0,
+      "reason": "创业板活跃标的，+17.4%领涨，板块强度79。"
+    },
+    {
+      "time": "2026-05-18 15:10:35",
+      "type": "buy",
+      "symbol": "sh688327",
+      "name": "云从科技-UW",
+      "price": 14.19,
+      "qty": 100,
+      "amount": 1419.0,
+      "pnl": 0,
+      "reason": "科创板高标龙头，资金聚焦度高，高潮期溢价明确。"
+    },
+    {
+      "time": "2026-05-19 09:21:42",
+      "type": "buy",
+      "symbol": "sh601398",
+      "name": "工商银行",
+      "price": 7.19,
+      "qty": 200,
+      "amount": 1438.0,
+      "pnl": 0,
+      "reason": "金融权重稳定，弱市中具备防守属性，可作为低波动避险配置。"
+    },
+    {
+      "time": "2026-05-19 09:21:42",
+      "type": "buy",
+      "symbol": "sz300263",
+      "name": "隆华科技",
+      "price": 13.19,
+      "qty": 100,
+      "amount": 1319.0,
+      "pnl": 0,
+      "reason": "创业板方向仍有相对强度，个股小幅领涨但未涨停，可轻仓低吸博弈修复。"
+    },
+    {
+      "time": "2026-05-19 09:24:49",
+      "type": "buy",
+      "symbol": "sh601398",
+      "name": "工商银行",
+      "price": 7.19,
+      "qty": 100,
+      "amount": 719.0,
+      "pnl": 0,
+      "reason": "市场偏弱时具备防守属性，适合作为低波动避险配置。"
+    },
+    {
+      "time": "2026-05-19 09:27:38",
+      "type": "buy",
+      "symbol": "sz300259",
+      "name": "新天科技",
+      "price": 6.32,
+      "qty": 100,
+      "amount": 632.0,
+      "pnl": 0,
+      "reason": "当前未涨停且位置可控，若量能温和放大可作为低吸备选。"
+    },
+    {
+      "time": "2026-05-19 09:37:41",
+      "type": "sell",
+      "symbol": "sz300164",
+      "name": "通源石油",
+      "price": 13.07,
+      "qty": 100,
+      "amount": 1307.0,
+      "pnl": -58.00000000000001,
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz300259",
+      "name": "新天科技",
+      "price": 6.4,
+      "qty": 400,
+      "pnl": 67.99999999999997,
+      "time": "2026-05-19 13:00:53",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz000875",
+      "name": "电投绿能",
+      "price": 6.89,
+      "qty": 200,
+      "time": "2026-05-19 13:20:20",
+      "reason": "电力主线扩散阶段具备补涨预期，若盘中承接强且未涨停可轻仓试错。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600795",
+      "name": "国电电力",
+      "price": 5.1,
+      "qty": 200,
+      "time": "2026-05-19 13:30:47",
+      "reason": "电力板块强度第一，低位大容量标的有补涨与承接优势，适合主线延续时跟随。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600025",
+      "name": "华能水电",
+      "price": 9.84,
+      "qty": 100,
+      "time": "2026-05-19 13:30:48",
+      "reason": "电力主线升温，水电方向具备防守与趋势属性，适合作为不追涨停的稳健低吸选择。"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh688327",
+      "name": "云从科技-UW",
+      "price": 14.56,
+      "qty": 100,
+      "pnl": 37.0000000000001,
+      "time": "2026-05-19 13:39:43",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600027",
+      "name": "华电国际",
+      "price": 5.49,
+      "qty": 200,
+      "time": "2026-05-19 13:47:13",
+      "reason": "电力板块强度居前，适合作为主线内趋势补涨标的，等待放量突破或回踩确认。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600795",
+      "name": "国电电力",
+      "price": 5.12,
+      "qty": 200,
+      "time": "2026-05-19 13:59:08",
+      "reason": "电力板块强度高，个股容量大、趋势稳定，适合作为板块强势延续的低风险跟随标的。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600025",
+      "name": "华能水电",
+      "price": 9.85,
+      "qty": 100,
+      "time": "2026-05-19 13:59:08",
+      "reason": "电力主线扩散下水电具备防守与趋势属性，适合高潮期分歧时承接观察。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600795",
+      "name": "国电电力",
+      "price": 5.14,
+      "qty": 100,
+      "time": "2026-05-19 14:38:12",
+      "reason": "电力板块强度高，个股具备容量和趋势延续性，适合高潮期主线内低吸。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600027",
+      "name": "华电国际",
+      "price": 5.5,
+      "qty": 100,
+      "time": "2026-05-19 14:38:12",
+      "reason": "电力方向资金持续性较好，股价未涨停时可作为主线补涨容量标的参与。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600795",
+      "name": "国电电力",
+      "price": 5.17,
+      "qty": 100,
+      "time": "2026-05-20 09:16:27",
+      "reason": "电力板块仍是当前较强方向，国电电力量价相对平稳、辨识度较高，适合作为趋势中军低吸备选。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600027",
+      "name": "华电国际",
+      "price": 5.46,
+      "qty": 100,
+      "time": "2026-05-20 09:16:27",
+      "reason": "华电国际处于电力主线内，未涨停且价格满足资金约束，可作为核心涨停无法参与后的中军低吸选择。"
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "reason": "AI 推荐 (score=82.0) 风控拦截"
+    },
+    {
+      "symbol": "sh688327",
+      "name": "云从科技-UW",
+      "reason": "AI 推荐 (score=78.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300263",
+      "name": "隆华科技",
+      "reason": "AI 推荐 (score=75.0) 风控拦截"
+    },
+    {
+      "symbol": "索辰科技",
+      "name": "索辰科技",
+      "reason": "AI 推荐 (score=88.0) 风控拦截"
+    },
+    {
+      "symbol": "天山电子",
+      "name": "天山电子",
+      "reason": "AI 推荐 (score=79.0) 风控拦截"
+    },
+    {
+      "symbol": "电力前排",
+      "name": "电力板块前排非涨停股",
+      "reason": "AI 推荐 (score=76.0) 风控拦截"
+    },
+    {
+      "symbol": "sz301379",
+      "name": "天山电子",
+      "reason": "AI 推荐 (score=78.0) 风控拦截"
+    },
+    {
+      "symbol": "sz301162",
+      "name": "国能日新",
+      "reason": "AI 推荐 (score=78.0) 风控拦截"
+    },
+    {
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "reason": "AI 推荐 (score=75.0) 风控拦截"
+    },
+    {
+      "symbol": "sz300283",
+      "name": "温州宏丰",
+      "reason": "AI 推荐 (score=82.0) 风控拦截"
+    },
+    {
+      "symbol": "sh600886",
+      "name": "国投电力",
+      "reason": "AI 推荐 (score=76.0) 风控拦截"
+    },
+    {
+      "symbol": "sh600025",
+      "name": "华能水电",
+      "reason": "AI 推荐 (score=78.0) 风控拦截"
+    },
+    {
+      "symbol": "sh600795",
+      "name": "国电电力",
+      "reason": "AI 推荐 (score=78.0) 风控拦截"
+    }
+  ],
+  "risk_logs": [
+    {
+      "time": "2026-05-19 13:24:47",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：72% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:26:23",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：72% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:26:23",
+      "symbol": "sz301379",
+      "name": "天山电子",
+      "action": "BUY",
+      "reason": "[A级]单只超限：19% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:27:45",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：72% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:27:45",
+      "symbol": "sz301379",
+      "name": "天山电子",
+      "action": "BUY",
+      "reason": "[A级]单只超限：19% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:29:15",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：72% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:30:47",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：72% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:32:19",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：72% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:33:45",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：72% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:35:13",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：73% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:36:42",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：73% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:38:24",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：73% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:39:43",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：73% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:41:12",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：73% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:42:42",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：73% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:44:13",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:45:41",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:47:13",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:48:37",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:50:08",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:51:40",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:53:11",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:54:38",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:56:06",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:57:42",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：73% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 13:59:08",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：73% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:00:34",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：81% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:18:42",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:20:21",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:21:53",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:23:21",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：75% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:24:44",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:26:07",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:27:46",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:29:11",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：74% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:30:40",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：75% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:32:08",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:33:57",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：77% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:35:10",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：77% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:36:40",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：77% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:38:12",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：77% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:39:52",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:41:08",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:42:40",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:44:05",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 14:45:52",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 15:01:22",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-19 15:17:48",
+      "symbol": "sh688507",
+      "name": "索辰科技",
+      "action": "BUY",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-20 09:17:48",
+      "symbol": "sh600795",
+      "name": "国电电力",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前60% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-20 09:17:48",
+      "symbol": "sh600025",
+      "name": "华能水电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前60% >= 市场neutral最大60%",
+      "risk_level": "HIGH"
+    }
+  ],
+  "ai_log": [
+    {
+      "time": "2026-05-19 15:04:16",
+      "reasoning": "市场情绪极热、赚钱效应扩散，但高潮期追高风险上升，仅适合聚焦未涨停核心龙头。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，暂按持仓观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，且处于强势情绪环境中。"
+        },
+        {
+          "symbol": "sz000537",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，暂不做卖出处理。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，持仓小幅盈利继续观察。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，防守属性仍在。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，暂维持持仓。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:05:48",
+      "reasoning": "市场情绪处于高潮扩散阶段，涨停数量高且上涨面广，但短线需避免追涨停与冷却标的。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，暂时持有观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，且创业板方向仍处强势。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力绿能方向可继续观察。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，当前小幅盈利可继续持有。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，防守型电力资产暂未破坏。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，当前走势未见明显破位信号。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:07:16",
+      "reasoning": "市场情绪极强、涨停大幅扩散，但高潮期追高风险上升，优先持仓观察不盲目接力。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，低波动权重持仓暂以观察为主。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，当前市场情绪强势，先持有等待确认。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，绿电方向随市场高潮仍有轮动预期。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，电力防守属性仍在，短线继续观察。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，水电权重走势稳定，暂不处理。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，火电板块有补涨预期，继续持有。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:08:55",
+      "reasoning": "情绪极热、赚钱效应扩散，但121只涨停后追高风险上升，短线只做核心龙头且回避已涨停标的。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，银行防守属性仍可作为组合稳定器。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，创业板强势背景下仍有跟随溢价。"
+        },
+        {
+          "symbol": "sz000958",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力绿能方向在高潮期虽非最强但未见破位。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，低波动电力股暂以持有观察为主。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，水电防守逻辑仍在但短线弹性偏弱。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，火电方向小幅盈利且未触发卖出条件。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:10:18",
+      "reasoning": "市场情绪极强但已进入高潮段，短线只聚焦未涨停核心龙头，避免后排追高。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，低波动权重仓暂持。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，创业板情绪强势仍可观察。"
+        },
+        {
+          "symbol": "sz000958",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力绿能方向仍有资金承接。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，盈利小幅为正，继续持有观察。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，防守属性仍有效。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力板块仍未破坏持仓逻辑。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:11:48",
+      "reasoning": "涨停家数显著扩张、赚钱效应强，但高潮期追高风险上升，只适合聚焦未涨停核心龙头。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，当前小幅持平，先持有观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，题材情绪较强，暂不处理。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，电力方向仍偏稳，先持有。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，当前浮盈小幅为正，继续观察。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，防守属性仍在，暂持。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，走势未破坏，继续持有。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:13:17",
+      "reasoning": "市场情绪极热，涨停扩散明显，短线只适合围绕未涨停核心龙头参与，避免追高封板股。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，低波动权重持仓暂以持有观察为主。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，个股仍处科技成长方向，暂未确认走弱。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力能源方向仍具防守属性。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力板块稳定性较强，继续观察承接。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，水电资产偏防守，暂不做处理。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，火电方向仍有板块支撑，持有观察。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:14:46",
+      "reasoning": "赚钱效应极强但已进入高潮区，龙头可继续观察，非核心不宜追高。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，低波动防守仓暂持有。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，创业板情绪强势下暂持有观察。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，电力能源方向仍有防守属性。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，盈利小幅为正且趋势未破。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，水电防守逻辑仍有效。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，电力板块持仓逻辑暂未破坏。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:16:18",
+      "reasoning": "市场情绪极强、赚钱效应扩散，但高潮期追高风险上升，只适合聚焦未涨停核心龙头。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，低波动权重仓暂按持有处理。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，且创业板情绪较强，暂看承接。"
+        },
+        {
+          "symbol": "sz000958",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力绿能方向仍有防守属性。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力板块稳健，暂未破坏持仓逻辑。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，水电防守属性仍在。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力权重走势平稳。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:17:48",
+      "reasoning": "市场情绪极强、涨停扩散明显，短线只适合聚焦未涨停的核心龙头，避免追20cm涨停。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "工商银行处于T+1锁定期，今日不能卖出，低波动持有观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "隆华科技处于T+1锁定期，今日不能卖出，等待次日确认强弱。"
+        },
+        {
+          "symbol": "sz000958",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电投绿能处于T+1锁定期，今日不能卖出，暂按持有处理。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "国电电力处于T+1锁定期，今日不能卖出，盈利小幅为正继续观察。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "华能水电处于T+1锁定期，今日不能卖出，防守属性仍有效。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "华电国际处于T+1锁定期，今日不能卖出，等待次日择机处理。"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh688507",
+          "name": "索辰科技",
+          "score": 86,
+          "action": "BUY",
+          "thesis": "科创板为当前最强方向，索辰科技涨幅18%但未涨停，具备高潮期龙头博弈价值。",
+          "risk_result": "[A级]单只超限：76% > 普通上限15%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-19 15:19:15",
+      "reasoning": "涨停数量极高、上涨比接近八成，情绪处于高潮期，但追高风险同步放大，只能聚焦未涨停且未被风控限制的核心龙头。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，当前小幅持平，先持有观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，市场高潮有利于成长风格延续。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力能源方向仍有防守支撑。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，当前略有浮盈，暂不处理。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，低波动电力资产可继续观察。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，持仓未破坏，等待次日确认。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:20:45",
+      "reasoning": "涨停数量显著放大、上涨比高，情绪处于高潮期，短线只适合聚焦最强主线龙头但需回避涨停与风控冷却标的。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，低波动金融仓位暂以持有观察为主。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，创业板情绪强势仍可继续观察承接。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，电力能源方向在高潮行情中具备防守属性。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，央企电力品种走势稳定，暂未破坏持仓逻辑。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，水电防守属性仍在，继续观察强弱切换。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法卖出，电力板块稳健但弹性有限，暂持有等待明日处理。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:22:13",
+      "reasoning": "市场情绪极强、上涨扩散明显，但高潮期追高风险上升，应只聚焦核心龙头且避开涨停与风控冷却标的。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，金融权重在高潮期弹性偏弱但暂未触发卖出。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，创业板情绪强势，持仓暂跟随市场。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，绿电方向受市场高情绪支撑。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，低位电力防守属性仍在。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，水电权重波动较低，继续观察。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，电力板块仍有资金承接。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:23:44",
+      "reasoning": "市场情绪极强、赚钱效应扩散，但高潮期追高风险加大，只适合聚焦未涨停核心龙头。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，暂持观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，且创业板情绪较强。"
+        },
+        {
+          "symbol": "sz000537",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，电力绿能方向仍有防守属性。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，低波动电力持仓继续观察。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，趋势未破暂持。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，电力板块仍具稳定性。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:25:12",
+      "reasoning": "市场情绪极热且上涨面过高，短线只看龙头但需防范次日分歧回落。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，低波动防守属性仍可观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，题材仍处强势环境内。"
+        },
+        {
+          "symbol": "sz000958",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力绿能方向在高潮期仍有资金承接。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，盈利小幅为正且电力板块偏稳。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，水电防守属性未破坏。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，电力方向趋势暂未走坏。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:26:37",
+      "reasoning": "市场情绪极强、涨停扩散，但高潮期需聚焦龙头并避免追涨停。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，持平运行暂不破坏持仓逻辑。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，当前无明显破位信号。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，盈亏持平附近先观察。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，小幅盈利且趋势未破。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，小幅盈利维持持有。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖，小幅盈利且未见破位。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:28:11",
+      "reasoning": "市场情绪极强、赚钱效应扩散，但高潮期追高风险加大，只适合围绕未涨停核心龙头参与。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，当前小幅持平，先持有观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，处于强势市场环境中，暂未破坏持仓逻辑。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，当前盈亏持平，等待次日确认强弱。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，小幅盈利且未出现明显破位信号。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，低波动防守属性仍在。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不能卖，当前小幅盈利，暂按持有处理。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-19 15:30:24",
+      "reasoning": "市场情绪极热且上涨面过宽，短线只适合聚焦未涨停核心龙头，无法满足价格与风控约束则空仓等待。",
+      "stage": "高潮",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "工商银行当前T+1锁定不可卖，低波动防守仓暂维持观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "隆华科技当前T+1锁定不可卖，处于科创创业活跃环境中先持有观察。"
+        },
+        {
+          "symbol": "sz000958",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电投绿能当前T+1锁定不可卖，电力防守属性仍有效。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "国电电力当前T+1锁定不可卖，小幅盈利且电力板块防守逻辑未破。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "华能水电当前T+1锁定不可卖，水电稳健防守逻辑仍在。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "华电国际当前T+1锁定不可卖，电力中军属性未出现破位信号。"
+        }
+      ],
+      "signals": [],
+      "signals_count": 0
+    },
+    {
+      "time": "2026-05-20 09:16:27",
+      "reasoning": "市场处于震荡轮动阶段，涨停数量少但无跌停，电力方向相对有持续性，策略以低吸核心中军为主，回避涨停追高。",
+      "stage": "震荡",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "工商银行偏防守属性，震荡市可作为低波动底仓观察。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "BROKEN",
+          "reason": "隆华科技不在当前强势主线内，但若为当日买入受T+1约束暂不卖，次日弱势再处理。"
+        },
+        {
+          "symbol": "sz000958",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电投绿能处于电力相关主线内，低位震荡未破坏持仓逻辑。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "国电电力属于电力趋势中军，涨幅不高且仍在主线内，继续观察。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "华能水电为电力方向容量中军，震荡市适合低吸持有。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "华电国际同属电力主线，当前未出现明显破位信号，继续持有观察。"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh600025",
+          "name": "华能水电",
+          "score": 78,
+          "action": "BUY",
+          "thesis": "主线核心龙头天山电子与上海电力均已涨停不追，华能水电作为电力容量中军，价格满足单票预算且适合震荡市低吸。",
+          "risk_result": "资金不足"
+        },
+        {
+          "symbol": "sh600795",
+          "name": "国电电力",
+          "score": 76,
+          "action": "BUY",
+          "thesis": "电力板块仍是当前较强方向，国电电力量价相对平稳、辨识度较高，适合作为趋势中军低吸备选。",
+          "risk_result": "风控通过，已买入"
+        },
+        {
+          "symbol": "sh600027",
+          "name": "华电国际",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "华电国际处于电力主线内，未涨停且价格满足资金约束，可作为核心涨停无法参与后的中军低吸选择。",
+          "risk_result": "风控通过，已买入"
+        }
+      ],
+      "signals_count": 3
+    },
+    {
+      "time": "2026-05-20 09:17:48",
+      "reasoning": "市场处于震荡轮动期，涨停家数少但无跌停，电力方向有辨识度但整体强度仍偏有限。",
+      "stage": "震荡",
+      "position_analysis": [
+        {
+          "symbol": "sh601398",
+          "action": "HOLD",
+          "thesis_status": "BROKEN",
+          "reason": "不在当前短线主线内，但受T+1约束暂不卖出。"
+        },
+        {
+          "symbol": "sz300263",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "创业板方向仍有一定活跃度，个股未明显破坏短线结构。"
+        },
+        {
+          "symbol": "sz002128",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "仍属于电力能源相关方向，震荡期可继续观察承接。"
+        },
+        {
+          "symbol": "sh600795",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力板块趋势中军，当前小幅盈利且未见明显破位。"
+        },
+        {
+          "symbol": "sh600025",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "水电中军具备防御属性，走势相对平稳。"
+        },
+        {
+          "symbol": "sh600027",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力板块仍在主线内，虽短线偏弱但暂未确认逻辑破坏。"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh600795",
+          "name": "国电电力",
+          "score": 78,
+          "action": "BUY",
+          "thesis": "上海电力涨停带动电力主线，但龙头已涨停不可追，国电电力作为容量中军价格符合资金约束，适合震荡期低吸。",
+          "risk_result": "[A级]仓位已满：当前60% >= 市场neutral最大60%"
+        },
+        {
+          "symbol": "sh600025",
+          "name": "华能水电",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "同属电力方向的趋势中军，股价未涨停且100股资金可覆盖，具备防御和低吸属性。",
+          "risk_result": "[A级]仓位已满：当前60% >= 市场neutral最大60%"
+        }
+      ],
+      "signals_count": 2
+    }
+  ],
+  "ai_status": "已停止",
+  "ai_start_time": "2026-05-20T09:12:39.325147",
+  "cooldown_list": {
+    "sh688507": {
+      "name": "索辰科技",
+      "reason": "[A级]单只超限：76% > 普通上限15%",
+      "until": 1779175968.1374161
+    }
+  }
+}

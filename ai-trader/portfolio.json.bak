@@ -1,0 +1,13 @@
+{
+  "initial_cash": 20000.0,
+  "cash": 20000.0,
+  "positions": {},
+  "transactions": [],
+  "risk_logs": [],
+  "ai_log": [],
+  "watchlist": [],
+  "ai_status": "分析中",
+  "ai_model": "",
+  "cooldown_positions": [],
+  "ai_start_time": "2026-05-26T21:19:30.252836"
+}
