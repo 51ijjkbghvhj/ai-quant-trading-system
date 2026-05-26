@@ -1,122 +1,195 @@
-AI 量化交易系统 A-Share Quant System (v9<p align<strong>双 AI 驱动・事件驱动架构・三级硬核风控・动态仓位智能交易</p><p align="center">中文English</p><p align="center"><img src="https://img.shields.io/badge/Python-3.9%2B-blue" alt="Python Version">
-<img src="https://img.shields.io/badge/LLM-All%20Models-green" alt="All LLM Supported"> <img src="https://img.shields.io/badge/Risk-S%2FA%2FB%20Level-orange" alt="Three-Level Risk Control"> <img src="https://img.shields.io/badge/Version-v9.0.5-purple" alt="System<img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Running Status"> </p>
-📌 项目简介
-本项目是自研企业级 A 股智能量化交易系统，基于双 AI 分离架构 + 事件驱动机制开发。
-区别于传统指标量化，本系统不依赖机械均线、MACD 公式拟合，核心以市场情绪、资金周期、板块结构、龙头强弱为交易核心依据。
-核心逻辑：
-AI 只负责分析打分，风控拥有最终交易裁决权
-实现全自动、低回撤、高适配行情的智能量化交易。
-核心设计理念
-🧠 AI 是分析师，非交易员：AI 无直接下单权限，仅输出策略建议
-🛡️ 风控绝对优先：S/A/B 三级风控，支持一票否决
-🌊 情绪周期优先：资金行为 > 传统技术指标
-⚙️ 双脑独立协同：实时交易 AI + 离线研究 AI 分工运行
-🏗️ 系统七层架构
-plaintext
-数据采集层 → 市场结构压缩层 → 双AI分析引擎 → 动态仓位引擎 → 三级风控引擎 → 交易执行层 → 数据持久层
-分层功能介绍
-数据采集层：聚合多源实时行情、全市场股票池、舆情数据，本地缓存加速响应
-市场结构压缩层：将海量原始数据转为 AI 可读结构化信息，完成板块聚合、龙头识别、情绪判定
-双 AI 分析引擎：90s 高频实时盯盘，30 分钟深度复盘迭代策略
-动态仓位引擎 V2：多维计算最优持仓比例，解决传统仓位锁死缺陷
-三级风控引擎：系统最高权限，拦截所有高风险交易
-交易执行层：标准化下单、手数校验、持仓状态流转、日志记录
-数据持久层：数据库 + JSON 双备份，程序重启不丢失任何数据
-✨ 系统核心功能
-🤖 双 AI 智能架构
-交易 AI（高频实时）：90 秒一轮巡检，输出标准化 JSON 交易信号
-研究 AI（深度复盘）：定时复盘交易记录，沉淀经验、优化策略、排查风险
-全模型兼容：适配 GPT、DeepSeek、通义千问、GLM 等所有大模型
-智能清洗解析：自动过滤模型思考文本，精准提取有效交易数据
-🧩 双层 Prompt 认知分离
-独家解决 AI 量化最大痛点：AI 只推荐高价无法购买标的
-认知层：全局扫描市场主线，把控整体趋势与情绪
-执行层：限定可交易资金池，AI 仅能从合规标的选股，信号 100% 可落地
-📊 自研动态仓位引擎 V2
-重构传统固定仓位、乘法仓位缺陷：
-90 分以上：35% 重仓（优质行情）
-80–89 分：15% 标准仓（正常行情）
-70–79 分：7% 试错仓（震荡弱行情）
-70 分以下：空仓观望（无确定性机会）
-叠加市场情绪系数、历史胜率调节器，杜绝连亏锁仓、盲目重仓问题。
-🛡️ S/A/B 三级硬核风控
-S 级｜绝对红线（强制拦截，不可绕过）
-A 股 T+1 交易规则严格校验
-多板块分级硬止损机制
-建仓保护期、卖出冷静期风控
-跌停、异常波动订单直接拦截
-低信念值持仓强制清仓
-A 级｜策略动态风控
-根据市场赚钱效应动态限制总仓位
-行情高潮 / 冰点分级准入规则
-阶梯式分批止盈，锁定收益、放大利润
-B 级｜技术形态风控
-持仓超时强制退出
-均线破位、板块走弱止损
-冲高回落、放量滞涨形态离场
-💎 信念持仓系统
-0–100 分动态信念值，90 秒自动更新
-根据量价、板块强弱、资金变化自动加减分
-全程状态持久化，重启程序不中断持仓逻辑
-🕒 全时段交易适配
-完美兼容主板、创业板、科创板交易规则，支持盘后固定价格交易。
-📁 核心文件说明
-表格
-文件路径	核心功能
-v3/event_bus.py	系统核心调度、主循环、AI 调用、交易执行总控
-v3/market_structure.py	市场结构解析、情绪判断、龙头板块识别
-v2/risk_engine.py	三级风控核心，所有交易最终审核出口
-v3/position_lifecycle.py	持仓状态机、信念值管理、交易周期管控
-v2/ai_model.py	多模型适配、JSON 智能解析、接口兼容
-v3/experience_layer.py	交易经验沉淀、胜率统计、策略复盘
-trading-dashboard/server.py	可视化监控面板、后端 API 数据聚合
-🚀 快速部署启动
-环境要求
-Python 3.9+
-任意 OpenAI 兼容大模型 API 接口
-全平台 Windows/Linux 兼容
-安装依赖
-bash
-运行
+# 🤖 AI Quant Trader - 双AI驱动的A股量化交易系统
+
+> **核心设计理念：AI是分析师，不是交易员。风控才是裁决者。**
+
+基于双AI模型的A股量化交易系统，采用**事件驱动架构**和**三层风控体系**。交易AI每90秒实时盯盘，研究AI每30分钟深度复盘，两者独立运行、单向协同。
+
+---
+
+## 📊 系统亮点
+
+| 特性 | 说明 |
+|:---|:---|
+| 🧠 **双脑分离** | 交易AI（实时盯盘）+ 研究AI（深度复盘），互不干扰 |
+| 🛡️ **三级风控** | S级绝对红线 → A级策略控制 → B级技术退出，一票否决 |
+| 📦 **手数决策系统** | 核心单位是“股数”而非“钱”，保证订单可执行 |
+| 🎯 **动态仓位引擎** | Score决定基础仓位，Mood微调，Winrate连续缩放(0.4~1.1) |
+| 💪 **Conviction信念系统** | 根据市场反馈动态调整持仓信心，<30强制卖出 |
+| 🌊 **情绪周期优先** | 关注资金行为和市场情绪，而非单纯数学预测 |
+| 🔌 **全模型兼容** | 支持GPT、DeepSeek、Qwen、GLM、Kimi等所有OpenAI格式模型 |
+
+---
+
+## 🏗️ 系统架构
+数据采集层 (腾讯/新浪/东方财富API)
+↓
+事件检测与压缩层 (板块聚合 → 龙头识别 → 情绪判断)
+↓
+双AI分析引擎 (交易AI 90s/次 + 研究AI 30min/次)
+↓
+动态仓位引擎 (Score + Mood + Winrate 三因子)
+↓
+风控引擎 (S/A/B 三级审核，最高优先级)
+↓
+执行与记录层 (SQLite + JSON持久化)
+
+### 核心原则
+
+- **认知与执行分离**：AI只能从【可交易候选池】中选股
+- **手数决策系统**：核心单位是“股数(lot)”，不是“钱”
+- **风控一票否决**：S级规则不可绕过，可覆盖AI建议
+- **仓位调节器模型**：连续缩放不归零，小仓试错永不锁死
+
+---
+
+## 🚀 快速开始
+
+### 环境要求
+
+- Python 3.9+
+- 虚拟环境 (推荐)
+
+### 安装
+
+```bash
+# 克隆仓库
+git clone https://github.com/yourname/ai-quant-trader.git
+cd ai-quant-trader
+
+# 安装依赖
 pip install -r requirements.txt
-启动核心量化程序
-bash
-运行
-python ai-trader/v3_main.py
-启动可视化监控面板
-bash
-运行
+
+###配置
+
+1.复制配置文件模板
+  cp ai_config.json.example ai_config.json
+  cp ai_config_research.json.example ai_config_research.json
+
+2.编辑 AI 配置 (ai_config.json)
+  {
+  "base_url": "https://api.openai.com/v1",
+  "api_key": "your-api-key",
+  "model": "gpt-4o",
+  "temperature": 0.3
+  }
+3.编辑交易配置 (config.json)
+  {
+  "initial_cash": 100000,
+  "max_single_position_pct": 0.25,
+  "hard_stop_loss": -0.05
+  }
+
+###运行
+
+# 启动主程序
+python v3_main.py
+
+# 启动Web仪表盘 (另开终端)
 cd trading-dashboard
 python server.py
-访问地址
-浏览器打开：http://localhost:8000
-🗂️ 数据持久化文件
-portfolio.json：账户资金、持仓批次、信念值、交易状态
-ai_config.json：交易 AI 模型参数配置
-ai_config_research.json：研究 AI 独立配置
-trading_history.db：完整交易数据库（12 张业务数据表）
-market_data.json：实时市场情绪、板块缓存数据
-⚖️ 系统底层铁律
-AI 无直接下单权限，所有交易必须经过风控校验
-严格执行认知、执行分离，杜绝无效交易信号
-风控优先级高于 AI 信号、仓位计算，拥有一票否决权
-研究 AI 仅复盘优化，不干预实时交易
-AI 输出强制标准化 JSON 格式，保证系统稳定解析
-所有持仓遵循状态机流转，禁止无序交易
-📝 版本更新日志
-v9.0.5（最新稳定版）
-清洗监控池脏数据，修复前端卡顿、数据重复问题
-重构市场情绪统计逻辑，数据完全真实精准
-优化前端 UI 交互与数据展示效果
-v9.0.4
-上线全模型通用 JSON 适配引擎
-新增创业板、科创板盘后交易适配
-批量修复系统报错、数据同步异常 BUG
-v9.0.3
-动态仓位引擎 V2 全面重构升级
-自研手数决策系统，彻底解决零手无效订单
-完善信念值动态更新与状态持久化机制
-⚠️ 风险免责声明
-本项目仅用于编程学习、量化策略技术研究与个人复盘测试，不构成任何证券投资建议。
-A 股市场存在不可控风险，量化策略无法保证 100% 盈利，使用者所有实盘交易盈亏自行承担，作者不承担任何相关责任。
-<strong>AI Quant Trading System v9.0 | 自研双 AI A 股智能量化交易</p>
+
+# 浏览器访问 http://localhost:8080
+
+📁 项目结构
+
+ai-quant-trader/
+├── v3/
+│   ├── event_bus.py           # 核心调度器、主循环
+│   ├── market_structure.py    # 市场结构压缩、板块聚合
+│   ├── position_lifecycle.py  # 持仓生命周期管理
+│   └── experience_layer.py    # 经验积累、策略胜率统计
+├── v2/
+│   ├── risk_engine.py         # 三级风控引擎 (最高优先级)
+│   ├── ai_model.py            # 全模型JSON适配层
+│   └── db.py                  # SQLite数据库操作
+├── trading-dashboard/
+│   ├── server.py              # HTTP API服务
+│   ├── static/                # 前端页面
+│   └── index.html             # 仪表盘UI
+├── ai_config.json             # 交易AI配置
+├── portfolio.json             # 持仓/资金状态
+├── requirements.txt
+└── README.md
+
+
+🎯 核心机制详解
+1. 双层Prompt架构 (认知-执行分离)
+【第一层：全市场全景】仅观测，不可推荐
+   ├── 板块龙头：XX股份(+10%) 👁️超预算
+   └── 资金主线：AI算力、半导体
+   
+【第二层：可交易候选池】只能从这里选
+   ├── AA电子(8.50元) ← 预算内
+   └── BB科技(15.20元) ← 预算内
+
+【资金约束】单票预算上限：2979元 (股价需 ≤ 29.79元)
+2. 动态仓位引擎 v2
+# 单核心 + 仓位调节器模型
+base_pct = score_to_base_pct(score)  # ≥90:35%, ≥80:15%, ≥70:7%
+mood = clamp(calc_market_mood(), 0.8, 1.2)   # 裁剪到±20%
+pos_mult = winrate_to_multiplier(wr)         # 0.4~1.1 连续缩放
+
+budget = cash * min(base_pct * mood * pos_mult, 0.35)
+3. 三级风控体系
+级别	规则	不可绕过
+S级	T+1限制、硬止损(-5%/-7%/-8%)、跌停拦截、Conviction<30强制卖	✅
+A级	动态仓位、高潮期分级限制(龙头65/跟风75)、分批止盈	❌
+B级	时间强制退出(7天)、技术破位、冲高回落、放量滞涨	❌
+4. Conviction信念系统
+信号	变化	触发条件
+放量突破	+20	涨幅>3% 且 换手>5%
+板块加强	+15	涨幅>2%
+量能萎缩	-15	跌幅 且 换手<2%
+跌破5日线	-25	现价 < 成本×0.95
+初始值60，<30触发S级强制卖出
+
+📡 API接口
+端点	方法	说明
+/api/all	GET	聚合数据(行情/持仓/AI状态)
+/api/analysis/status	GET	分析运行状态
+/api/analysis/start	POST	启动分析循环
+/api/analysis/stop	POST	停止分析循环
+/api/ai/config	POST	保存AI配置
+/api/history	GET	历史交易记录
+🛠️ 支持的模型
+模型	兼容性	备注
+GPT-4o / o1 / o3	✅ 完全兼容	原生JSON模式
+DeepSeek v4-pro	✅ 完全兼容	自动提取reasoning_content
+DeepSeek v4-flash	✅ 完全兼容	
+Qwen-Max/Plus	✅ 完全兼容	
+GLM-4	✅ 完全兼容	
+Kimi (Moonshot)	✅ 完全兼容	
+本地Ollama	✅ 完全兼容	
+📊 数据存储
+文件	内容	更新频率
+portfolio.json	持仓/资金/信念值	每次交易后
+trading_history.db	SQLite数据库(12张表)	实时
+pnl_history.json	收益曲线	每次循环后
+ai_trade.log	系统日志	实时
+⚠️ 重要提示
+AI不直接交易 - 所有信号必须通过风控引擎审核
+
+认知与执行分离 - AI只能从可交易候选池中选股
+
+风控一票否决 - S级规则不可绕过
+
+手数决策系统 - 核心单位是“股数”，不是“钱”
+
+本系统仅供学习和研究使用 - 实盘交易风险自负
+
+🗺️ 路线图
+双AI分离架构 (交易+研究)
+
+三级风控体系
+
+动态仓位引擎 v2
+
+Conviction信念系统
+
+全模型JSON适配
+
+盘后固定价格交易
+
+回测引擎
+
+⭐ 如果这个项目对你有帮助，欢迎Star支持！
