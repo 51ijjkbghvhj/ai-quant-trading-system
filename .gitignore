@@ -1,0 +1,28 @@
+# === 🛡️ 绝对禁止上传的用户数据 (Data Separation) ===
+/user_data/
+ai-trader/portfolio.json
+ai-trader/trading_history.db
+ai-trader/ai_config.json
+ai-trader/mimo_debug.log
+trading-dashboard/market_data.json
+trading-dashboard/market_data.json.tmp
+
+# === Python 缓存与虚拟环境 ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# === IDE ===
+.vscode/
+.idea/

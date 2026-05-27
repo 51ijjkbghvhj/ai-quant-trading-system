@@ -1,0 +1,2720 @@
+{
+  "cash": 5513.0,
+  "initial_cash": 20000,
+  "positions": {
+    "sz300174": [
+      {
+        "name": "元力股份",
+        "qty": 100,
+        "cost_price": 23.33,
+        "current_price": 23.52,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 09:34:10",
+        "buy_reason": "化工板块联动，换手温和，趋势走强，小仓试错",
+        "pnl": 19.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 09:34:10",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 23.33,
+        "locked_qty": 100,
+        "locked_cost": 23.33,
+        "highest_since_buy": 23.52,
+        "risk_line": 22.16
+      }
+    ],
+    "sh688469": [
+      {
+        "name": "芯联集成-U",
+        "qty": 100,
+        "cost_price": 8.75,
+        "current_price": 8.52,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 09:44:22",
+        "buy_reason": "半导体景气，跟随板块轮动，低吸试错",
+        "pnl": -23.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 09:44:22",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 8.75,
+        "locked_qty": 100,
+        "locked_cost": 8.75,
+        "risk_line": 8.31
+      },
+      {
+        "name": "芯联集成-U",
+        "qty": 100,
+        "cost_price": 8.86,
+        "current_price": 8.52,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 09:50:33",
+        "buy_reason": "半导体主线，晶圆代工，放量上行趋势",
+        "pnl": -34.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 09:50:33",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 8.86,
+        "locked_qty": 100,
+        "locked_cost": 8.86,
+        "risk_line": 8.42
+      },
+      {
+        "name": "芯联集成-U",
+        "qty": 100,
+        "cost_price": 8.88,
+        "current_price": 8.52,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 09:59:06",
+        "buy_reason": "半导体主线，龙头华天科技涨停，该股同属性未涨停，趋势延续，量价健康。",
+        "pnl": -36.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 09:59:06",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 8.88,
+        "locked_qty": 100,
+        "locked_cost": 8.88,
+        "risk_line": 8.44
+      }
+    ],
+    "sz300291": [
+      {
+        "name": "百纳千成",
+        "qty": 100,
+        "cost_price": 6.05,
+        "current_price": 6.71,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 09:48:33",
+        "buy_reason": "非涨停中涨幅领先，换手温和，震荡市补涨试错",
+        "pnl": 66.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 09:48:33",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 6.05,
+        "locked_qty": 100,
+        "locked_cost": 6.05,
+        "highest_since_buy": 6.71,
+        "risk_line": 6.31
+      },
+      {
+        "name": "百纳千成",
+        "qty": 100,
+        "cost_price": 6.55,
+        "current_price": 6.71,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 10:06:27",
+        "buy_reason": "创业板领涨龙头，涨幅17.2%未涨停，换手5.7%量价健康，市场偏多下趋势延续概率大。",
+        "pnl": 16.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 10:06:27",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 6.55,
+        "locked_qty": 100,
+        "locked_cost": 6.55,
+        "highest_since_buy": 6.71,
+        "risk_line": 6.22
+      }
+    ],
+    "sz300464": [
+      {
+        "name": "星徽股份",
+        "qty": 100,
+        "cost_price": 10.79,
+        "current_price": 10.19,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 09:51:25",
+        "buy_reason": "创业板强势，放量跟涨龙头百纳千成，小仓试错",
+        "pnl": -60.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 09:51:25",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 10.79,
+        "locked_qty": 100,
+        "locked_cost": 10.79,
+        "risk_line": 10.25
+      }
+    ],
+    "sh600021": [
+      {
+        "name": "上海电力",
+        "qty": 100,
+        "cost_price": 21.03,
+        "current_price": 20.55,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 09:54:28",
+        "buy_reason": "电力板块领涨，换手活跃，作为非科技主线的补涨试错，小仓参与",
+        "pnl": -48.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 09:54:28",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 21.03,
+        "locked_qty": 100,
+        "locked_cost": 21.03,
+        "risk_line": 19.98
+      }
+    ],
+    "sh600578": [
+      {
+        "name": "京能电力",
+        "qty": 100,
+        "cost_price": 9.35,
+        "current_price": 9.7,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 09:55:38",
+        "buy_reason": "电力板块轮动，跟随龙头上海电力，量价温和，小仓试错",
+        "pnl": 35.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 09:55:38",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 9.35,
+        "locked_qty": 100,
+        "locked_cost": 9.35,
+        "highest_since_buy": 9.7,
+        "risk_line": 9.41
+      }
+    ],
+    "sz300221": [
+      {
+        "name": "银禧科技",
+        "qty": 100,
+        "cost_price": 14.52,
+        "current_price": 14.11,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 10:07:53",
+        "buy_reason": "创业板跟风百纳千成，涨幅+9.6%，换手10.3%，量价健康，主线趋势",
+        "pnl": -41.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 10:07:53",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 14.52,
+        "locked_qty": 100,
+        "locked_cost": 14.52,
+        "risk_line": 13.79
+      }
+    ],
+    "sz300721": [
+      {
+        "name": "怡达股份",
+        "qty": 100,
+        "cost_price": 30.7,
+        "current_price": 29.98,
+        "buy_date": "2026-05-27",
+        "buy_time": "2026-05-27 10:10:28",
+        "buy_reason": "半导体方向趋势股，天岳先进领涨，怡达跟涨放量，轻度策略试错",
+        "pnl": -72.0,
+        "status": "locked",
+        "state_entered_at": "2026-05-27 10:10:28",
+        "conviction": 60,
+        "thesis_status": "VALID",
+        "sellable_qty": 0,
+        "sellable_cost": 30.7,
+        "locked_qty": 100,
+        "locked_cost": 30.7,
+        "risk_line": 29.16
+      }
+    ]
+  },
+  "transactions": [
+    {
+      "type": "buy",
+      "symbol": "sz300410",
+      "name": "正业科技",
+      "price": 11.04,
+      "qty": 100,
+      "time": "2026-05-22 10:23:05",
+      "reason": "对标天承科技等PCB/电子材料方向强势锚点，属于同主线可交易弹性标的，若未封涨停且量价健康可参与。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh688317",
+      "name": "之江生物",
+      "price": 20.61,
+      "qty": 100,
+      "time": "2026-05-22 13:34:28",
+      "reason": "医药方向有四环生物涨停锚点带动，但并非核心龙头，仅适合在放量不冲板的情况下小仓博弈轮动。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "price": 17.6,
+      "qty": 100,
+      "time": "2026-05-22 14:36:58",
+      "reason": "电力板块具备防守与趋势轮动属性，市场高潮下可作为低波动补涨试错，但非主线核心，仓位需轻。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz000938",
+      "name": "紫光股份",
+      "price": 29.91,
+      "qty": 100,
+      "time": "2026-05-22 14:54:44",
+      "reason": "AI/算力硬件方向容量中军，未在冷却名单且未显示涨停，适合作为主线高潮期无法买入涨停龙头后的趋势中军小仓试错。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002203",
+      "name": "海亮股份",
+      "price": 21.42,
+      "qty": 100,
+      "time": "2026-05-22 15:06:42",
+      "reason": "资源有色方向在高潮行情中具备轮动承接潜力，若铜铝链条集体高开且非缩量冲高，可作为趋势轮动观察；不追涨停。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002047",
+      "name": "宝鹰股份",
+      "price": 5.19,
+      "qty": 200,
+      "time": "2026-05-25 09:17:33",
+      "reason": "AI/人工智能主线龙头达实智能涨停，宝鹰股份同属AI概念且股价低于50元，集合竞价高开，资金认可，作为同板块趋势中军，量价健康，符合升温期上车逻辑。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002245",
+      "name": "蔚蓝锂芯",
+      "price": 20.99,
+      "qty": 100,
+      "time": "2026-05-25 09:28:04",
+      "reason": "钢铁/资源板块领涨，蔚蓝锂芯高开+2.8%，换手0.2%，量价健康，属于板块核心龙头，符合第一层选股逻辑。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002421",
+      "name": "达实智能",
+      "price": 4.59,
+      "qty": 200,
+      "time": "2026-05-25 09:28:04",
+      "reason": "AI/人工智能板块领涨，达实智能高开+5.3%，换手1.3%，资金活跃，属于主线方向核心标的，符合第一层选股逻辑。"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz002203",
+      "name": "海亮股份",
+      "price": 21.21,
+      "qty": 100,
+      "pnl": -21.000000000000085,
+      "time": "2026-05-25 09:35:30",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz300410",
+      "name": "正业科技",
+      "price": 11.49,
+      "qty": 100,
+      "pnl": 45.00000000000011,
+      "time": "2026-05-25 09:41:29",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz000630",
+      "name": "铜陵有色",
+      "price": 6.81,
+      "qty": 200,
+      "time": "2026-05-25 09:41:29",
+      "reason": "资源/钢铁主线领涨，今日+7.1%换手2.0%放量突破，趋势强劲，符合主线趋势标准。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002421",
+      "name": "达实智能",
+      "price": 4.7,
+      "qty": 100,
+      "time": "2026-05-25 09:44:29",
+      "reason": "AI主线核心龙头，今日领涨+7.8%且换手19.1%活跃，但T+1锁定无法买入，仅作参考。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300137",
+      "name": "先河环保",
+      "price": 19.29,
+      "qty": 100,
+      "time": "2026-05-25 09:54:55",
+      "reason": "创业板领涨股，涨停20%且换手仅3%，资金锁仓明显，主线方向（创业板成长），符合高潮期做龙头策略，小仓试错。"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh688317",
+      "name": "之江生物",
+      "price": 21.67,
+      "qty": 100,
+      "pnl": 106.00000000000023,
+      "time": "2026-05-25 14:23:49",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "price": 18.53,
+      "qty": 100,
+      "pnl": 92.99999999999997,
+      "time": "2026-05-25 14:23:49",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz000938",
+      "name": "紫光股份",
+      "price": 30.74,
+      "qty": 100,
+      "pnl": 82.99999999999983,
+      "time": "2026-05-25 14:30:02",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300715",
+      "name": "凯伦股份",
+      "price": 21.81,
+      "qty": 100,
+      "time": "2026-05-25 14:30:02",
+      "reason": "半导体方向补涨，放量拉升，跟随中芯国际，小仓试错"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh688455",
+      "name": "科捷智能",
+      "price": 23.4,
+      "qty": 100,
+      "time": "2026-05-25 14:40:29",
+      "reason": "AI主线补涨，龙头达实智能涨停，科捷智能未涨停，换手4.4%尚可，有望轮动。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz301331",
+      "name": "恩威医药",
+      "price": 29.1,
+      "qty": 100,
+      "time": "2026-05-25 14:35:23",
+      "reason": "医药板块领涨龙头，涨幅10.7%未涨停，换手5.2%缩量健康，高潮期做核心。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh688317",
+      "name": "之江生物",
+      "price": 22.51,
+      "qty": 100,
+      "time": "2026-05-26 09:36:47",
+      "reason": "医药轮动，低位放量，但非核心，小仓试错"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh688352",
+      "name": "颀中科技",
+      "price": 18.64,
+      "qty": 100,
+      "time": "2026-05-26 09:39:05",
+      "reason": "半导体封装测试，与芯片主线共振，换手充分"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz002047",
+      "name": "宝鹰股份",
+      "price": 4.86,
+      "qty": 200,
+      "pnl": -66.0,
+      "time": "2026-05-26 09:36:47",
+      "reason": "补单执行: AI 逻辑破坏触发卖出"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz000630",
+      "name": "铜陵有色",
+      "price": 6.67,
+      "qty": 200,
+      "pnl": -28.0,
+      "time": "2026-05-26 09:36:47",
+      "reason": "补单执行: AI 逻辑破坏触发卖出"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz300715",
+      "name": "凯伦股份",
+      "price": 21.55,
+      "qty": 100,
+      "pnl": -26.0,
+      "time": "2026-05-26 09:36:47",
+      "reason": "补单执行: AI 逻辑破坏触发卖出"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh688455",
+      "name": "科捷智能",
+      "price": 22.94,
+      "qty": 100,
+      "pnl": -46.0,
+      "time": "2026-05-26 09:36:47",
+      "reason": "补单执行: AI 逻辑破坏触发卖出"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz002421",
+      "name": "达实智能",
+      "price": 4.75,
+      "qty": 300,
+      "pnl": 36.99999999999992,
+      "time": "2026-05-26 10:27:36",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz300137",
+      "name": "先河环保",
+      "price": 19.1,
+      "qty": 100,
+      "pnl": -18.999999999999773,
+      "time": "2026-05-26 10:27:36",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz301331",
+      "name": "恩威医药",
+      "price": 29.31,
+      "qty": 100,
+      "pnl": 20.99999999999973,
+      "time": "2026-05-26 10:27:36",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300162",
+      "name": "雷曼光电",
+      "price": 11.76,
+      "qty": 100,
+      "time": "2026-05-26 10:30:44",
+      "reason": "创业板领涨，换手充分，趋势延续。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh601101",
+      "name": "昊华能源",
+      "price": 10.47,
+      "qty": 100,
+      "time": "2026-05-26 10:43:11",
+      "reason": "电力板块强势，上海电力涨停，京能电力放量跟涨，试错参与"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz002245",
+      "name": "蔚蓝锂芯",
+      "price": 22.35,
+      "qty": 100,
+      "pnl": 136.00000000000028,
+      "time": "2026-05-26 10:46:15",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300180",
+      "name": "华峰超纤",
+      "price": 5.48,
+      "qty": 100,
+      "time": "2026-05-26 10:47:39",
+      "reason": "超纤材料，今日放量上涨，形态强势，交易升温期试错"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh601016",
+      "name": "节能风电",
+      "price": 4.64,
+      "qty": 100,
+      "time": "2026-05-26 10:50:46",
+      "reason": "电力板块跟涨，龙头上海电力涨停，京能电力涨幅7.3%未涨停，换手4.6%活跃，存在补涨机会。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh601908",
+      "name": "京运通",
+      "price": 3.7,
+      "qty": 400,
+      "time": "2026-05-26 10:54:04",
+      "reason": "电力龙头上海电力涨停，京能电力放量跟涨6.8%，换手4.7%激活，主线趋势明确"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh601991",
+      "name": "大唐发电",
+      "price": 7.4,
+      "qty": 100,
+      "time": "2026-05-26 10:56:44",
+      "reason": "电力板块主线，上海电力涨停后京能电力跟风放量，具备补涨空间，小仓试错。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600578",
+      "name": "京能电力",
+      "price": 9.58,
+      "qty": 100,
+      "time": "2026-05-26 10:58:22",
+      "reason": "电力板块主线，龙头上海电力涨停，京能电力放量跟涨，形态健康，补涨逻辑"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz002245",
+      "name": "蔚蓝锂芯",
+      "price": 21.96,
+      "qty": 100,
+      "time": "2026-05-26 11:01:16",
+      "reason": "资源股趋势，放量上攻，小仓试错"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh601600",
+      "name": "中国铝业",
+      "price": 11.58,
+      "qty": 100,
+      "time": "2026-05-26 11:07:27",
+      "reason": "资源板块活跃，放量上涨，短线试错"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300180",
+      "name": "华峰超纤",
+      "price": 5.39,
+      "qty": 100,
+      "time": "2026-05-26 11:12:08",
+      "reason": "创业板主线趋势股，雷曼光电带动情绪，华峰超纤跟风放量，换手健康，均线多头，有望继续上行。"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz300180",
+      "name": "华峰超纤",
+      "price": 5.24,
+      "qty": 200,
+      "pnl": -38.99999999999988,
+      "time": "2026-05-27 09:33:18",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh601991",
+      "name": "大唐发电",
+      "price": 7.18,
+      "qty": 100,
+      "pnl": -22.000000000000064,
+      "time": "2026-05-27 09:33:18",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh601016",
+      "name": "节能风电",
+      "price": 4.65,
+      "qty": 100,
+      "pnl": 1.0000000000000675,
+      "time": "2026-05-27 09:34:10",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300174",
+      "name": "元力股份",
+      "price": 23.33,
+      "qty": 100,
+      "time": "2026-05-27 09:34:10",
+      "reason": "化工板块联动，换手温和，趋势走强，小仓试错"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh688317",
+      "name": "之江生物",
+      "price": 24.23,
+      "qty": 100,
+      "pnl": 171.9999999999999,
+      "time": "2026-05-27 09:38:23",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh600578",
+      "name": "京能电力",
+      "price": 9.3,
+      "qty": 100,
+      "pnl": -27.999999999999936,
+      "time": "2026-05-27 09:38:23",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh688469",
+      "name": "芯联集成-U",
+      "price": 8.75,
+      "qty": 100,
+      "time": "2026-05-27 09:44:22",
+      "reason": "半导体景气，跟随板块轮动，低吸试错"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz300162",
+      "name": "雷曼光电",
+      "price": 11.38,
+      "qty": 100,
+      "pnl": -37.9999999999999,
+      "time": "2026-05-27 09:45:29",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300291",
+      "name": "百纳千成",
+      "price": 6.05,
+      "qty": 100,
+      "time": "2026-05-27 09:48:33",
+      "reason": "非涨停中涨幅领先，换手温和，震荡市补涨试错"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh601101",
+      "name": "昊华能源",
+      "price": 10.28,
+      "qty": 100,
+      "pnl": -19.000000000000128,
+      "time": "2026-05-27 09:50:33",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh601908",
+      "name": "京运通",
+      "price": 3.74,
+      "qty": 400,
+      "pnl": 16.000000000000014,
+      "time": "2026-05-27 09:50:33",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sz002245",
+      "name": "蔚蓝锂芯",
+      "price": 22.17,
+      "qty": 100,
+      "pnl": 21.000000000000085,
+      "time": "2026-05-27 09:50:33",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh601600",
+      "name": "中国铝业",
+      "price": 12.0,
+      "qty": 100,
+      "pnl": 41.99999999999999,
+      "time": "2026-05-27 09:50:33",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh688469",
+      "name": "芯联集成-U",
+      "price": 8.86,
+      "qty": 100,
+      "time": "2026-05-27 09:50:33",
+      "reason": "半导体主线，晶圆代工，放量上行趋势"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300464",
+      "name": "星徽股份",
+      "price": 10.79,
+      "qty": 100,
+      "time": "2026-05-27 09:51:25",
+      "reason": "创业板强势，放量跟涨龙头百纳千成，小仓试错"
+    },
+    {
+      "type": "sell",
+      "symbol": "sh688352",
+      "name": "颀中科技",
+      "price": 18.37,
+      "qty": 100,
+      "pnl": -26.999999999999957,
+      "time": "2026-05-27 09:54:28",
+      "reason": "风控通过 评分30 信号SELL"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "price": 21.03,
+      "qty": 100,
+      "time": "2026-05-27 09:54:28",
+      "reason": "电力板块领涨，换手活跃，作为非科技主线的补涨试错，小仓参与"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh600578",
+      "name": "京能电力",
+      "price": 9.35,
+      "qty": 100,
+      "time": "2026-05-27 09:55:38",
+      "reason": "电力板块轮动，跟随龙头上海电力，量价温和，小仓试错"
+    },
+    {
+      "type": "buy",
+      "symbol": "sh688469",
+      "name": "芯联集成-U",
+      "price": 8.88,
+      "qty": 100,
+      "time": "2026-05-27 09:59:06",
+      "reason": "半导体主线，龙头华天科技涨停，该股同属性未涨停，趋势延续，量价健康。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300291",
+      "name": "百纳千成",
+      "price": 6.55,
+      "qty": 100,
+      "time": "2026-05-27 10:06:27",
+      "reason": "创业板领涨龙头，涨幅17.2%未涨停，换手5.7%量价健康，市场偏多下趋势延续概率大。"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300221",
+      "name": "银禧科技",
+      "price": 14.52,
+      "qty": 100,
+      "time": "2026-05-27 10:07:53",
+      "reason": "创业板跟风百纳千成，涨幅+9.6%，换手10.3%，量价健康，主线趋势"
+    },
+    {
+      "type": "buy",
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "price": 30.7,
+      "qty": 100,
+      "time": "2026-05-27 10:10:28",
+      "reason": "半导体方向趋势股，天岳先进领涨，怡达跟涨放量，轻度策略试错"
+    }
+  ],
+  "ai_status": "分析中",
+  "watchlist": [
+    {
+      "symbol": "sz300750",
+      "name": "宁德时代",
+      "reason": "用户手动添加",
+      "added_time": "11:39:26"
+    },
+    {
+      "symbol": "sh600360",
+      "name": "华微电子",
+      "reason": "用户手动添加",
+      "added_time": "11:39:44"
+    }
+  ],
+  "risk_logs": [
+    {
+      "time": "2026-05-27 11:22:33",
+      "symbol": "sz301305",
+      "name": "朗坤科技",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 11:25:22",
+      "symbol": "sz300975",
+      "name": "商络电子",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 11:30:38",
+      "symbol": "sz300174",
+      "name": "元力股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 11:31:39",
+      "symbol": "sh601991",
+      "name": "大唐发电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:02:35",
+      "symbol": "sz300975",
+      "name": "商络电子",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:08:30",
+      "symbol": "sh600578",
+      "name": "京能电力",
+      "action": "BUY",
+      "reason": "[S级]仓位状态：信念值不足：20 < 60",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:11:24",
+      "symbol": "sh601991",
+      "name": "大唐发电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:16:13",
+      "symbol": "sz300174",
+      "name": "元力股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:16:13",
+      "symbol": "sz300464",
+      "name": "星徽股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:16:13",
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "action": "BUY",
+      "reason": "[S级]仓位状态：信念值不足：20 < 60",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:18:11",
+      "symbol": "sz300967",
+      "name": "晓鸣股份",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:20:04",
+      "symbol": "sh688469",
+      "name": "芯联集成-U",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:20:04",
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:20:04",
+      "symbol": "sh600578",
+      "name": "京能电力",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:20:05",
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:20:05",
+      "symbol": "sz301305",
+      "name": "朗坤科技",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:25:28",
+      "symbol": "sz300975",
+      "name": "商络电子",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:28:41",
+      "symbol": "sz300221",
+      "name": "银禧科技",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:28:41",
+      "symbol": "sh601991",
+      "name": "大唐发电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:31:21",
+      "symbol": "sh601016",
+      "name": "节能风电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:33:27",
+      "symbol": "sz300174",
+      "name": "元力股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:33:27",
+      "symbol": "sz300464",
+      "name": "星徽股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:37:31",
+      "symbol": "sh688469",
+      "name": "芯联集成-U",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:37:31",
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:43:55",
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:43:55",
+      "symbol": "sz300182",
+      "name": "捷成股份",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:45:14",
+      "symbol": "sh601991",
+      "name": "大唐发电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:46:11",
+      "symbol": "sz300088",
+      "name": "长信科技",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:48:23",
+      "symbol": "sh601016",
+      "name": "节能风电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:49:23",
+      "symbol": "sz300975",
+      "name": "商络电子",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:52:16",
+      "symbol": "sh601016",
+      "name": "节能风电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "13:55:50",
+      "symbol": "sh601016",
+      "name": "节能风电",
+      "action": "BUY",
+      "reason": "AI 评分不足 30/60",
+      "risk_level": "INFO"
+    },
+    {
+      "time": "2026-05-27 13:57:18",
+      "symbol": "sh688469",
+      "name": "芯联集成-U",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:57:18",
+      "symbol": "sz300464",
+      "name": "星徽股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:57:18",
+      "symbol": "sz300221",
+      "name": "银禧科技",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:57:18",
+      "symbol": "sz300721",
+      "name": "怡达股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:57:18",
+      "symbol": "sh600578",
+      "name": "京能电力",
+      "action": "BUY",
+      "reason": "[S级]仓位状态：信念值不足：20 < 60",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 13:59:54",
+      "symbol": "sh600578",
+      "name": "京能电力",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:01:18",
+      "symbol": "sh600021",
+      "name": "上海电力",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:01:18",
+      "symbol": "sh601991",
+      "name": "大唐发电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:03:11",
+      "symbol": "sz000518",
+      "name": "四环生物",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:05:23",
+      "symbol": "sz300088",
+      "name": "长信科技",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:09:33",
+      "symbol": "sh601016",
+      "name": "节能风电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:11:49",
+      "symbol": "sz300182",
+      "name": "捷成股份",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:13:30",
+      "symbol": "sz300174",
+      "name": "元力股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:13:30",
+      "symbol": "sh688783",
+      "name": "西安奕材-U",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:14:35",
+      "symbol": "sh688469",
+      "name": "芯联集成-U",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:14:35",
+      "symbol": "sz300464",
+      "name": "星徽股份",
+      "action": "SELL",
+      "reason": "[S级]T+1限制：今日(2026-05-27)买入不可卖出",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:55:02",
+      "symbol": "sh601016",
+      "name": "节能风电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    },
+    {
+      "time": "2026-05-27 14:56:56",
+      "symbol": "sh601991",
+      "name": "大唐发电",
+      "action": "BUY",
+      "reason": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%",
+      "risk_level": "HIGH"
+    }
+  ],
+  "ai_log": [
+    {
+      "time": "2026-05-27 13:49:23",
+      "reasoning": "创业板领涨，涨停10家，市场情绪尚可",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "轻微亏损，趋势未破",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，等待反弹",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "涨停，盈利中，继续持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "亏损但未破位",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，电力板块轮动",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "盈利，电力板块走强",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "亏损，等待反弹",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，半导体可能有轮动",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300975",
+          "name": "商络电子",
+          "score": 70,
+          "action": "BUY",
+          "thesis": "创业板活跃，放量换手，趋势跟随补涨",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 13:51:18",
+      "reasoning": "市场偏强，主线在创业板和电力，资金活跃度较高",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "走势平稳，未破位",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "半导体板块仍有支撑，暂持",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "创业板龙头，涨停封板",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "未明显走弱，观察",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力板块趋势延续",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力股跟涨，盈利中",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "创业板跟风，暂持",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "半导体反弹中，持有",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh600578",
+          "name": "京能电力",
+          "score": 65,
+          "action": "BUY",
+          "thesis": "电力板块持续走强，京能电力放量跟涨，小仓试错",
+          "risk_result": "加仓评分不足(65.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 13:52:16",
+      "reasoning": "指数修复，涨停10家，市场情绪积极，新能源与电力方向活跃",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "元力股份上涨7.4%，基本面未变",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "芯联集成虽跌但仍在震荡区间",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "百纳千成涨停，龙头效应强",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "星徽股份小幅波动，暂无卖出信号",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力涨2.1%，电力板块驱动",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "京能电力涨5.6%，受益电力主线",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "银禧科技上涨7.3%，量价配合",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "怡达股份涨4.1%，半导体轮动",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh601016",
+          "name": "节能风电",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "新能源主线，风电中军，换手8.4%量价健康，可小仓试错",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 13:53:46",
+      "reasoning": "指数震荡偏强，个股活跃，但缺乏明确主线，涨停较多但分散。",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "温和放量上涨，趋势未破。",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "暂未破位，等待反弹。",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "已涨停，强势持有。",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "小幅回踩，趋势完好。",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力板块尚可，暂持。",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "沿均线上行，持有。",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "均线多头排列，持有。",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "下方有支撑，暂持。",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh600578",
+          "name": "京能电力",
+          "score": 65,
+          "action": "BUY",
+          "thesis": "电力板块跟涨，换手温和，补涨试错。",
+          "risk_result": "加仓评分不足(65.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 13:55:50",
+      "reasoning": "涨停10跌停6，上涨比62%，主线不清晰，创业板相对活跃",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "元力股份今日+7.4%较强，持有",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "芯联集成今日可能有反弹，T+1锁仓",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "百纳千成涨停，逻辑确认",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "星徽股份弱势但T+1无法卖",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力冷却名单，T+1不可卖",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "京能电力盈利且非涨停，持有",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "银禧科技今日上涨，锁仓",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "怡达股份跟随半导体，持有",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh601016",
+          "name": "节能风电",
+          "score": 30,
+          "action": "BUY",
+          "thesis": "新能源领涨，今日+6.3%，但仓位已满，风控拒绝，仅供观测",
+          "risk_result": "评分不足 (30/60)"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 13:57:18",
+      "reasoning": "电力领涨，涨停10家偏强",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "创业板跟涨，形态良好，持有",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "弱势非主线，止损换股",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "涨停龙头，持有待涨",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "弱势非主线，止损",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁仓，被动持有",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力主线，趋势良好，拟加仓",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "非主线弱势，止损换股",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "半导体弱于主线，换股",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh600578",
+          "name": "京能电力",
+          "score": 85,
+          "action": "BUY",
+          "thesis": "电力主线，量价健康，加仓",
+          "is_add_position": true,
+          "risk_result": "[S级]仓位状态：信念值不足：20 < 60"
+        },
+        {
+          "symbol": "sz300174",
+          "name": "元力股份",
+          "score": 80,
+          "action": "BUY",
+          "thesis": "创业板跟涨龙头，形态良好",
+          "risk_result": "加仓评分不足(80.0<85"
+        }
+      ],
+      "signals_count": 2
+    },
+    {
+      "time": "2026-05-27 13:58:21",
+      "reasoning": "震荡偏多，创业板领涨",
+      "stage": "升温期",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结，涨停持盈",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300174",
+          "name": "元力股份",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "创业板补涨，龙头百纳千成涨停打开空间，元力放量跟涨，量价健康，小仓试错",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 13:59:54",
+      "reasoning": "上涨比65.4%，涨停10只，创业板领涨",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "微亏，震荡偏多持有",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "涨停，强势持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "微亏，电力板块趋势尚可",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "信念值不足20，择机卖出",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定不可卖",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh600021",
+          "name": "上海电力",
+          "score": 70,
+          "action": "BUY",
+          "thesis": "电力板块跟风，换手8.1%活跃，预算内可小仓试错",
+          "risk_result": "加仓评分不足(70.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:01:18",
+      "reasoning": "电力、新能源方向活跃，龙头节能风电等领涨",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "微亏但未破位，持有观望",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，小幅亏损，持有",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "涨停强势，继续持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，亏损但暂持",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "涨幅远弱于电力板块，走势不及预期",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定且盈利，继续持有",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，小幅亏损，持有",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，亏损但暂持",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh601991",
+          "name": "大唐发电",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "电力板块强势，跟随龙头节能风电补涨，放量健康",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:03:11",
+      "reasoning": "指数偏强，上涨家数多于下跌，涨停11家，情绪尚可",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "持有元力股份，今日上涨，趋势良好",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "芯联集成-U，持仓中，等待反弹",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "百纳千成涨停，持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "星徽股份，暂持",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "上海电力，等待回本",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "京能电力，持有",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "银禧科技，持有",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "怡达股份，持有",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz000518",
+          "name": "四环生物",
+          "score": 81,
+          "action": "BUY",
+          "thesis": "医药板块龙头，涨幅不高，换手活跃，有望继续走强",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:05:23",
+      "reasoning": "整体偏强，创业板情绪高涨",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，微盈，暂持",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，亏损不大，暂持",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "涨停，T+1锁定，强势持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，亏损但等待修复",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，小亏，暂持",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，微盈，暂持",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，小亏，暂持",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定，亏损，等待反弹",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300088",
+          "name": "长信科技",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "创业板情绪扩散，放量上涨，换手13.6%，量价健康，补涨试错",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:07:48",
+      "reasoning": "成长方向活跃，创业板领涨",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "创业板活跃，量价健康，趋势延续",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1限制，被动持有",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "领涨龙头之一，涨停强势",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1限制，被动持有",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1限制，被动持有",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1限制，被动持有",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1限制，被动持有",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1限制，被动持有",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300174",
+          "name": "元力股份",
+          "score": 72,
+          "action": "BUY",
+          "thesis": "创业板活跃标的，涨幅7.8%换手12.7%健康，非涨停可买，试错加仓。",
+          "risk_result": "加仓评分不足(72.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:09:33",
+      "reasoning": "指数偏强，新能源电力活跃",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "微盈，趋势未破",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "小亏，等待反弹",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "盈利持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "暂持观察",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "小幅亏损，趋势完整",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "盈利持有",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "暂持观察",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "暂持观察",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh601016",
+          "name": "节能风电",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "电力方向补涨，量价健康，但仓位已满仅观察",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:11:49",
+      "reasoning": "上涨比72.2%，涨停7只，跌停2只，指数偏强，个股活跃，无明显主线",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "锁仓，趋势完好",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "锁仓，等待反弹",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "锁仓，盈利持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "锁仓，等待解套",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "锁仓，电力轮动",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "锁仓，小幅盈利",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "锁仓，等待反弹",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "锁仓，等待反弹",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300182",
+          "name": "捷成股份",
+          "score": 70,
+          "action": "BUY",
+          "thesis": "创业板放量反弹，跟风长信科技，换手13.3%，小仓试错",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:13:30",
+      "reasoning": "涨停13跌停6，上涨比68%，偏强势但缺乏绝对主线，轮动为主",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "非主线持仓，为控制仓位减仓",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定无法操作",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "涨停龙头，持有待涨",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁定",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh688783",
+          "name": "西安奕材-U",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "科创板次新跟风龙头N长进，量价配合，小仓试错",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:14:35",
+      "reasoning": "上涨比65%，涨停13只，跌停5只",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁仓，暂持",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "浮亏且走势弱，止损",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "涨停强势，继续持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "SELL",
+          "thesis_status": "BROKEN",
+          "reason": "持续走弱，止损",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁仓，暂持",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1锁仓，暂持",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "浮亏有限，等待反弹",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "趋势尚可，等待加仓",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300721",
+          "name": "怡达股份",
+          "score": 65,
+          "action": "BUY",
+          "thesis": "半导体材料补涨，换手充分，小仓试错",
+          "risk_result": "加仓评分不足(65.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:16:18",
+      "reasoning": "指数偏强，涨停多于跌停，上涨比例64.9%",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "+0.5%微盈，趋势尚可",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "-3.7%小亏，继续观察",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "+6.5%且涨停，逻辑确立",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "BROKEN",
+          "reason": "-5.7%且非主线，弱于预期",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "-1.8%电力板块支撑，观望",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "+2.7%跟风电力，暂持",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "BROKEN",
+          "reason": "-2.1%无板块效应，弱势",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "BROKEN",
+          "reason": "-3.3%非龙头，趋势偏弱",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh600578",
+          "name": "京能电力",
+          "score": 70,
+          "action": "BUY",
+          "thesis": "电力板块跟风，大唐发电领涨，试错小仓",
+          "risk_result": "加仓评分不足(70.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:53:31",
+      "reasoning": "上涨家数过半，均涨幅8.65%，情绪偏暖，但跌停9家需谨慎追高",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结，无法操作",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "T+1冻结",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sz300174",
+          "name": "元力股份",
+          "score": 80,
+          "action": "BUY",
+          "thesis": "创业板热点趋势股，百纳千成涨停带动，换手15.2%放量上行，可趋势跟随",
+          "risk_result": "加仓评分不足(80.0<85"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:55:02",
+      "reasoning": "指数偏强，上涨比63%，资金活跃但主线分散",
+      "stage": "升温期震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "小幅盈利，趋势尚可",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "微亏，未破关键支撑",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "涨停封板，继续持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "亏损不大，观察修复",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "小幅浮亏，电力板块稳健",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "盈利，量价正常",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "微亏，趋势未坏",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "小幅浮亏，持有观察",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh601016",
+          "name": "节能风电",
+          "score": 75,
+          "action": "BUY",
+          "thesis": "新能源方向换手活跃，未涨停，量价健康，升温期可做趋势跟随",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    },
+    {
+      "time": "2026-05-27 14:56:56",
+      "reasoning": "指数震荡偏多，个股分化，主线不清晰",
+      "stage": "震荡偏多",
+      "position_analysis": [
+        {
+          "symbol": "sz300174",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "创业板强势股，今日放量上涨，趋势保持",
+          "name": "元力股份"
+        },
+        {
+          "symbol": "sh688469",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "虽小幅亏损，但未破位，等待反弹",
+          "name": "芯联集成-U"
+        },
+        {
+          "symbol": "sz300291",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "20%涨停龙头，强势封板，继续持有",
+          "name": "百纳千成"
+        },
+        {
+          "symbol": "sz300464",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "弱势震荡，但无卖出信号，等待轮动",
+          "name": "星徽股份"
+        },
+        {
+          "symbol": "sh600021",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力板块跟风，走势平稳，持有待涨",
+          "name": "上海电力"
+        },
+        {
+          "symbol": "sh600578",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "电力板块走强，今日放量上涨，趋势良好",
+          "name": "京能电力"
+        },
+        {
+          "symbol": "sz300221",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "小幅浮亏，但未触发止损，继续观察",
+          "name": "银禧科技"
+        },
+        {
+          "symbol": "sz300721",
+          "action": "HOLD",
+          "thesis_status": "VALID",
+          "reason": "浮亏有限，走势平稳，等待反弹",
+          "name": "怡达股份"
+        }
+      ],
+      "signals": [
+        {
+          "symbol": "sh601991",
+          "name": "大唐发电",
+          "score": 70,
+          "action": "BUY",
+          "thesis": "电力板块今日领涨，放量中阳突破，震荡偏多市场中可小仓试错，博弈趋势延续",
+          "risk_result": "[A级]仓位已满：当前73% >= 市场震荡偏多最大70%"
+        }
+      ],
+      "signals_count": 1
+    }
+  ],
+  "ai_start_time": "2026-05-27T16:03:22.515885",
+  "cooldown_positions": []
+}

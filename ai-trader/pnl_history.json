@@ -1,0 +1,36 @@
+{
+  "history": [
+    {
+      "time": "2026-05-18 09:00:00",
+      "total_assets": 20000.0,
+      "cash": 20000.0,
+      "pnl": 0,
+      "pnl_pct": 0,
+      "positions_count": 0
+    },
+    {
+      "time": "2026-05-18 15:00:00",
+      "total_assets": 18000.0,
+      "cash": 18000,
+      "pnl": -2000,
+      "pnl_pct": -10.0,
+      "positions_count": 3
+    },
+    {
+      "time": "2026-05-19 09:30:00",
+      "total_assets": 19442.0,
+      "cash": 12055.0,
+      "pnl": -558.0,
+      "pnl_pct": -2.79,
+      "positions_count": 4
+    },
+    {
+      "time": "2026-05-19 10:13:07",
+      "total_assets": 19942.0,
+      "cash": 12555.0,
+      "pnl": -58.0,
+      "pnl_pct": -0.29,
+      "positions_count": 4
+    }
+  ]
+}
