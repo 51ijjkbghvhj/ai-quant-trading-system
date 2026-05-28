@@ -85,7 +85,7 @@ cd ai-quant-trading-system
 pip install -r requirements.txt
 ```
 
-### 3. 配置 AI 模型
+### 3. 配置 AI 模型（首次使用）
 
 打开 `user_data/ai_config.json`，填入你的 API 配置：
 
@@ -123,7 +123,8 @@ python v3_main.py auto
 1.  **下载新版**：下载最新的代码发布包并解压。
 2.  **覆盖文件**：将新包里的 `.py` 代码文件、`start.bat` 和前端文件夹覆盖到你旧的项目目录中。
 3.  **保留数据**：确保 `user_data` 目录（包含持仓、资金记录、数据库）没有被覆盖或删除。
-4.  **直接运行**：双击 `start.bat`。系统启动时会自动兼容旧版数据并无缝运行。
+4.  **初始化模型**：  打开 `user_data/ai_config.json`，重新填入你的 API 配置
+5.  **直接运行**：双击 `start.bat`。系统启动时会自动兼容旧版数据并无缝运行。
 
 
 ---
